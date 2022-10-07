@@ -9,12 +9,12 @@
 #######
 # SITE SETTINGS
 #
-title: bootstrap-template
-description: "a basic bootstrap template for Jekyll with GitHub Pages"
-year: 2020
-author: evan will 
+title: KCL Geometry Seminar
+description: "Geometry Seminar at King's College London"
+year: 2022
+author: kcl-geometry-seminar
 # add search box to navbar, true/false
-search: true
+search: false
 
 ##########
 # URL VARIABLES [optional!]
@@ -29,7 +29,7 @@ url:
 # baseurl is your github repository's name prefixed with a /
 baseurl:
 # location of code, the full url to your github repository
-source-code: https://github.com/thecdil/bootstrap-template
+source-code:
 
 ##########
 # GOOGLE ANALYTICS [optional!]
@@ -42,7 +42,7 @@ google-analytics-id:
 # ROBOTS EXCLUDE [optional!]
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+# noindex: true
 
 
 #######
