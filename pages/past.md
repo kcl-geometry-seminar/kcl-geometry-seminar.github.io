@@ -13,7 +13,7 @@ Speaker:&nbsp; **Martin de Borbon** (KCL)
 
 Title:&nbsp; Polyhedral Kähler cone metrics on $\mathbb{C}^n$
 
-Abstract:&nbsp; I will discuss a particular class of flat torsion free meromorphic connections on $\mathbb{C}^n$ with simple poles at hyperplane arrangements. The main result is that, if the holonomy is unitary, then the metric completion (of the flat Kähler metric on the arrangement complement) is polyhedral. Taking the quotient by scalar multiplication leads to new interesting Fubini-Study metrics with cone singularities. In the case of the braid arrangement, our result extends to higher dimensions the well-known existence criterion for spherical metrics on the projective line with three cone points (which goes back to Klein's work on the monodromy of Gauss' hypergeometric equation). This is joint work with Dmitri Panov. 
+Abstract:&nbsp; I will discuss a particular class of flat torsion free meromorphic connections on $\mathbb{C}^n$ with simple poles at hyperplane arrangements. The main result is that, if the holonomy is unitary, then the metric completion (of the flat Kähler metric on the arrangement complement) is polyhedral. Taking the quotient by scalar multiplication leads to new interesting Fubini-Study metrics with cone singularities. In the case of the braid arrangement, our result extends to higher dimensions the well-known existence criterion for spherical metrics on the projective line with three cone points (which goes back to Klein's work on the monodromy of Gauss' hypergeometric equation). This is joint work with Dmitri Panov.
 
 ---------------------------------------------------------
 <br />
@@ -93,7 +93,7 @@ Speaker:&nbsp; **Nicholas Shepherd-Barron** (KCL)
 
 Title:&nbsp; Periods of elliptic surfaces
 
-Abstract:&nbsp; Elliptic surfaces are one of the classes of complex algebraic surfaces picked out in the Enriques-Kodaira classification of surfaces. In this talk we shall explain how, given a generic such surface X, the primitive part of H<sup>1,1</sup>(X) has a natural orthonormal basis defined by certain meromorphic 2-forms of the 2nd kind. We shall also describe the variational approach that leads to this result and that underlies other aspects of these surfaces, their moduli and their periods. The primary aim, however, is to convey some of these ideas to a general geometrically-minded audience.
+Abstract:&nbsp; Elliptic surfaces are one of the classes of complex algebraic surfaces picked out in the Enriques-Kodaira classification of surfaces. In this talk we shall explain how, given a generic such surface $X$, the primitive part of $H^{1,1}(X)$ has a natural orthonormal basis defined by certain meromorphic 2-forms of the 2nd kind. We shall also describe the variational approach that leads to this result and that underlies other aspects of these surfaces, their moduli and their periods. The primary aim, however, is to convey some of these ideas to a general geometrically-minded audience.
 
 -----------------------------------------------------------
 <br />
@@ -115,7 +115,7 @@ Speaker:&nbsp; **Simon Salamon** (KCL)
 
 Title:&nbsp; The Horrocks bundle as an instanton
 
-Abstract:&nbsp; The Horrocks bundle (not to be confused with the Horrocks-Mumford bundle) is an indecomposable holomorphic rank 3 bundle over CP<sup>5</sup> with c<sub>2</sub>=3. It can be interpreted as a solution of the Yang-Mills equations on the quaternionic projective plane HP<sup>2</sup>, via a Penrose transform and twistor equation. In joint work with Udhav Fowdar, this realization leads to the existence of nowhere-vanishing spinors on HP<sup>2</sup> invariant by SU(3). I shall use this example to introduce instantons associated with G-structures in higher dimensions, cohomogeneity-one actions by SU(3), and Spin(7) structures on 8-manifolds.
+Abstract:&nbsp; The Horrocks bundle (not to be confused with the Horrocks-Mumford bundle) is an indecomposable holomorphic rank 3 bundle over $\mathbb{CP}^5$ with $c_2=3$. It can be interpreted as a solution of the Yang-Mills equations on the quaternionic projective plane $\mathbb{HP}^2$ via a Penrose transform and twistor equation. In joint work with Udhav Fowdar, this realization leads to the existence of nowhere-vanishing spinors on $\mathbb{HP}^2$ invariant by SU(3). I shall use this example to introduce instantons associated with G-structures in higher dimensions, cohomogeneity-one actions by SU(3), and Spin(7) structures on 8-manifolds.
 
 -----------------------------------------------------------
 <br />
