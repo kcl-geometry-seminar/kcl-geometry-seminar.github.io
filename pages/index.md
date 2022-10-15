@@ -36,7 +36,11 @@ Abstract:&nbsp; Generalizing Sékelyhidi's construction, we construct a new fami
 
 Speaker:&nbsp; **Dmitri Panov** (KCL)
 
-Title:&nbsp; TBA
+Title:&nbsp; Moduli of spherical tori with one conical point
+
+Abstract:&nbsp; A spherical surface is a surface that can be glued from a finite number of spherical triangles. Such surfaces have curvature one outside of a finite collection of conical points. In this talk I'll describe the simplest non-trivial example of the moduli space of such surfaces. Namely, the moduli space of spherical tori with one conical point of angle $2\pi\vartheta$. For $\vartheta \in (2m-1, 2m+1)$, the moduli space is a connected surface with orbifold Euler characteristic $-m^2/12$. For $\vartheta = 2m$ the moduli space has a natural holomorphic structure and is biholomorphic to the quotient of the Poincare disk
+$\mathbb{H}^2/G_m$  for a certain subgroup $G_m$ of $SL(2,\mathbb{Z})$ of index $m^2$.
+The talk is based on a joint work with Alex Eremenko and Gabriele Mondello.
 
 -----------------------------------------------------------
 <br />
