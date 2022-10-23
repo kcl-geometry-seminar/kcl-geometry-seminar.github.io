@@ -49,7 +49,9 @@ The talk is based on a joint work with Alex Eremenko and Gabriele Mondello.
 
 Speaker:&nbsp; **Selim Ghazouani** (UCL)
 
-Title:&nbsp; TBA
+Title:&nbsp; Some rigidity questions in Lorentzian geometry
+
+Abstract:&nbsp; Lorentzian geometry is a generalisation of Riemannian geometry, where a family of signature (n,1) quadratic forms replaces the Riemannian metric. I will discuss in this talk some rigidity problems for Lorentzian surfaces, somewhat analogous to the Mostow rigidity theorem in this context.
 
 -----------------------------------------------------------
 <br />
