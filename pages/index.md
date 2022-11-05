@@ -67,7 +67,10 @@ READING WEEK. NO SEMINAR.
 
 Speaker:&nbsp; **Konstanze Rietsch** (KCL)
 
-Title:&nbsp; TBA  
+Title:&nbsp; Tropical Edrei theorem.
+
+Abstract:&nbsp; The classical Edrei theorem from the 1950's gives a parametrisation of the infinite upper-triangular totally positive Toeplitz matrices by positive real parameters with finite sum. These matrices (and their parameters) are central for understanding characters of the infinite symmetric group, as was discovered by Thoma who reproved Edrei's theorem in the 1960's. A totally different theorem, related to quantum cohomology of flag varieties and mirror symmetry, gives inverse parametrisations of finite totally positive Toeplitz matrices [R, 06]. The latter theorem has an analogue over the field of Puiseaux series, obtained by Judd and studied further by Ludenbach. In this talk I will explain a new 'tropical' version of the Edrei-Thoma theorem, connecting the finite and infinite theories.
+
 
 -----------------------------------------------------------
 <br />
