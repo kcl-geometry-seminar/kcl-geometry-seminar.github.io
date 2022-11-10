@@ -79,7 +79,9 @@ Abstract:&nbsp; The classical Edrei theorem from the 1950's gives a parametrisat
 
 Speaker:&nbsp; **Jesus Martínez García** (Essex)
 
-Title:&nbsp; TBA
+Title:&nbsp; Some observations on the dimension of Fano K-moduli
+
+Abstract:&nbsp; Moduli spaces of K-stable Fano varieties have been intensively investigated in the last decade, both from a general theory point of view as well as via the study of explicit examples, mostly on the smoothable setting, i.e. where the general member of the moduli is smooth. However, the theory has now been extended to the non-smoothable setting, where a number of oddities can appear. In this talk, we will demonstrate via examples, how for any n>1, the dimension (as a scheme) of the K-moduli stack of n-dimensional Fano varieties is unbounded. We will also show how the dimension of the K-moduli stack can be arbitrarily big, while the dimension of its coarse variety remains bounded. This is joint work with Cristiano Spotti.
 
 
 -----------------------------------------------------------
@@ -91,6 +93,8 @@ Speaker:&nbsp; **Viveka Erandsson** (Bristol)
 
 Title:&nbsp; TBA
 
+Abstract:&nbsp;
+
 -----------------------------------------------------------
 <br />
 
@@ -99,6 +103,8 @@ Title:&nbsp; TBA
 Speaker:&nbsp; **Soheyla Feyzbakhsh** (Imperial)
 
 Title:&nbsp; TBA
+
+Abstract:&nbsp;
 
 -----------------------------------------------------------
 <br />
