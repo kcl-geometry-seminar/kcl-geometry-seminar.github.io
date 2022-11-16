@@ -91,9 +91,9 @@ Abstract:&nbsp; Moduli spaces of K-stable Fano varieties have been intensively i
 
 Speaker:&nbsp; **Viveka Erandsson** (Bristol)
 
-Title:&nbsp; TBA
+Title:&nbsp; Reciprocal geodesics and dihedral subgroups of lattices in PSL(2, R)
 
-Abstract:&nbsp;
+Abstract:&nbsp; I will discuss the growth of the number of infinite dihedral subgroups of lattices G in PSL(2, R). Such subgroups exist whenever the lattice has 2-torsion and they are related to so-called reciprocal geodesics on the corresponding quotient orbifold.  These are closed geodesics passing through an even order orbifold point, or equivalently, homotopy classes of closed curves having a representative in the fundamental group that’s conjugate to its own inverse. We obtain the asymptotic growth of the number of reciprocal geodesics (or infinite dihedral subgroups) in any orbifold, generalizing earlier work of Sarnak and Bourgain-Kontorivich on the growth of the number of reciprocal geodesics on the modular surface. Time allowing, I will explain how our methods also show that reciprocal geodesics are equidistributed in the unit tangent bundle. This is joint work with Juan Souto. 
 
 -----------------------------------------------------------
 <br />
