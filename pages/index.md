@@ -102,9 +102,9 @@ Abstract:&nbsp; I will discuss the growth of the number of infinite dihedral sub
 
 Speaker:&nbsp; **Soheyla Feyzbakhsh** (Imperial)
 
-Title:&nbsp; TBA
+Title:&nbsp; Fano threefolds and their semi-orthogonal decomposition
 
-Abstract:&nbsp;
+Abstract:&nbsp; The derived category of a prime Fano threefold has a semi-orthogonal decomposition so that the most important information is included only in one piece of this decomposition, called the Kuznetsov component. In this talk, I will discuss some of the recent applications of Bridgeland stability conditions on the Kuznetsov component of Fano threefolds to study their geometry, e.g. analysing moduli spaces of Ulrich bundles, or discovering interesting relations between different Fano threefolds. 
 
 -----------------------------------------------------------
 <br />
