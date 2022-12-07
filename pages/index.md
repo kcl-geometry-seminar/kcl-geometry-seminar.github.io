@@ -104,7 +104,7 @@ Speaker:&nbsp; **Soheyla Feyzbakhsh** (Imperial)
 
 Title:&nbsp; Fano threefolds and their semi-orthogonal decomposition
 
-Abstract:&nbsp; The derived category of a prime Fano threefold has a semi-orthogonal decomposition so that the most important information is included only in one piece of this decomposition, called the Kuznetsov component. In this talk, I will discuss some of the recent applications of Bridgeland stability conditions on the Kuznetsov component of Fano threefolds to study their geometry, e.g. analysing moduli spaces of Ulrich bundles, or discovering interesting relations between different Fano threefolds. 
+Abstract:&nbsp; The derived category of a prime Fano threefold has a semi-orthogonal decomposition so that the most important information is included only in one piece of this decomposition, called the Kuznetsov component. In this talk, I will discuss some of the recent applications of Bridgeland stability conditions on the Kuznetsov component of Fano threefolds to study their geometry, e.g. analysing moduli spaces of Ulrich bundles, or discovering interesting relations between different Fano threefolds.
 
 -----------------------------------------------------------
 <br />
@@ -118,3 +118,14 @@ Title:&nbsp; Free boundary minimal surfaces in the unit ball and the *first* Ste
 Abstract:&nbsp; Fraser and Schoen have uncovered a beautiful relationship between free boundary minimal surfaces in the unit ball and the Steklov problem: the coordinate functions of such surfaces are Steklov eigenfunctions with eigenvalue 1, and, on the other hand, the eigenfunctions for extremal metrics for the Steklov problem provide embeddings of free boundary minimal surfaces. The Fraser--Li conjecture states that not only are the coordinate functions Steklov eigenfunctions with eigenvalue 1, this eigenvalue is also the smallest non-zero one.
 
 In this talk, I will discuss the history of the problem, the relation with minimal surfaces in the sphere, and explain an elementary proof of special cases of the Fraser--Li conjecture assuming some additional symmetries.
+
+-----------------------------------------------------------
+<br />
+
+13 December, 15:00-16:00, Strand **S3.31**
+
+Speaker:&nbsp; **Stuart Hall** (New Castle)
+
+Title:&nbsp; TBA
+
+Abstract:&nbsp; TBA
