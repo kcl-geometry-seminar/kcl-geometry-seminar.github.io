@@ -126,6 +126,8 @@ In this talk, I will discuss the history of the problem, the relation with minim
 
 Speaker:&nbsp; **Stuart Hall** (New Castle)
 
-Title:&nbsp; TBA
+Title:&nbsp; Rigidity of Einstein metrics 
 
-Abstract:&nbsp; TBA
+Abstract:&nbsp; Given an Einstein manifold (M,g) it is natural to ask whether g is a member of a family of such metrics or if it is isolated in the space of such metrics. This is not an easy question to answer in general, but Koiso made progress in the 1980s in the case of symmetric spaces. He identified certain spaces that admit infinitesimal deformations (candidates for the tangents to curves of Einstein metrics).
+ 
+I will discuss recent joint work with Wafaa Batat, Tommy Murphy, and James Waldron showing some of the deformations are not integrable.
