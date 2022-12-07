@@ -124,7 +124,7 @@ In this talk, I will discuss the history of the problem, the relation with minim
 
 13 December, 15:00-16:00, Strand **S3.31**
 
-Speaker:&nbsp; **Stuart Hall** (New Castle)
+Speaker:&nbsp; **Stuart Hall** (Newcastle)
 
 Title:&nbsp; Rigidity of Einstein metrics 
 
