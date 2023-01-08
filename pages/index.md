@@ -1,133 +1,132 @@
 ---
-title: Autumn 2022
+title: Winter 2023
 ---
 
 
-The Seminar runs on **Tuesdays from 15:00 to 16:00 at Strand S2.29**
+The Seminar runs on *Tuesdays from 15:00 to 16:00* at **MACADAM BLDG MB1.3**
 
 
 
 ----------------------------------------------------------------
 <br />
 
-4 October, 15:00-16:00, Strand S2.29
+17 January, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; **Peter Jossen** (KCL)
+Speaker:&nbsp; TBA
 
-Title:&nbsp; E-functions and Geometry.
+Title:&nbsp;
 
-Abstract:&nbsp; Siegel introduced the notion of E-function in a landmark 1929 paper with the goal of generalising the Hermite-Lindemann-Weierstrass theorem on the transcendence of the values of the exponential function at algebraic numbers. E-functions are power series with algebraic coefficients that are solutions of a linear differential equation and satisfy some growth conditions of arithmetic nature. Besides the exponential function, examples include Bessel functions and a rich family of hypergeometric series. I will explain how such functions arise from geometry in the form of "exponential period functions", and why it might seem reasonable, in the light of other conjectures, to expect that all E-functions are of this kind.
+Abstract:&nbsp;
 
 ---------------------------------------------------------
 <br />
 
-11 October, 15:00-16:00, Strand S2.29
+24 January, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; **Shih-Kai Chiu** (Oxford)
+Speaker:&nbsp; **Izar Alonso Lorenzo** (Oxford)
 
-Title:&nbsp; Nonuniqueness of Calabi-Yau metrics with maximal volume growth
+Title:&nbsp; TBA
 
-Abstract:&nbsp; Generalizing Sékelyhidi's construction, we construct a new family of Calabi-Yau metrics on $\mathbb{C}^3$ with maximal volume growth, whose tangent cone at infinity is given by the singular cone $\mathbb{C} \times A_2$ where $A_2$ is the two dimensional A2 singularity equipped with the flat cone metric. We then show that these metrics are distinct in the sense that they are not related by an isometry and a scaling. Finally, we discuss a refined version of a conjecture of Székelyhidi about the classification of such metrics.
-
------------------------------------------------------------
-<br />
-
-18 October, 15:00-16:00, Strand S2.29
-
-Speaker:&nbsp; **Dmitri Panov** (KCL)
-
-Title:&nbsp; Moduli of spherical tori with one conical point
-
-Abstract:&nbsp; A spherical surface is a surface that can be glued from a finite number of spherical triangles. Such surfaces have curvature one outside of a finite collection of conical points. In this talk I'll describe the simplest non-trivial example of the moduli space of such surfaces. Namely, the moduli space of spherical tori with one conical point of angle $2\pi\vartheta$. For $\vartheta \in (2m-1, 2m+1)$, the moduli space is a connected surface with orbifold Euler characteristic $-m^2/12$. For $\vartheta = 2m$ the moduli space has a natural holomorphic structure and is biholomorphic to the quotient of the Poincare disk
-$\mathbb{H}^2/G_m$  for a certain subgroup $G_m$ of $SL(2,\mathbb{Z})$ of index $m^2$.
-The talk is based on a joint work with Alex Eremenko and Gabriele Mondello.
+Abstract:&nbsp;
 
 -----------------------------------------------------------
 <br />
 
-25 October, 15:00-16:00, Strand S2.29
+31 January, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; **Selim Ghazouani** (UCL)
+Speaker:&nbsp; TBA
 
-Title:&nbsp; Some rigidity questions in Lorentzian geometry
+Title:&nbsp;
 
-Abstract:&nbsp; Lorentzian geometry is a generalisation of Riemannian geometry, where a family of signature (n,1) quadratic forms replaces the Riemannian metric. I will discuss in this talk some rigidity problems for Lorentzian surfaces, somewhat analogous to the Mostow rigidity theorem in this context.
-
------------------------------------------------------------
-<br />
-
-1 November.
-
-READING WEEK. NO SEMINAR.
+Abstract:&nbsp;
 
 -----------------------------------------------------------
 <br />
 
-8 November, 15:00-16:00, Strand S2.29
+7 February, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; **Konstanze Rietsch** (KCL)
+Speaker:&nbsp; TBA
 
-Title:&nbsp; Tropical Edrei theorem.
+Title:&nbsp;
 
-Abstract:&nbsp; The classical Edrei theorem from the 1950's gives a parametrisation of the infinite upper-triangular totally positive Toeplitz matrices by positive real parameters with finite sum. These matrices (and their parameters) are central for understanding characters of the infinite symmetric group, as was discovered by Thoma who reproved Edrei's theorem in the 1960's. A totally different theorem, related to quantum cohomology of flag varieties and mirror symmetry, gives inverse parametrisations of finite totally positive Toeplitz matrices [R, 06]. The latter theorem has an analogue over the field of Puiseaux series, obtained by Judd and studied further by Ludenbach. In this talk I will explain a new 'tropical' version of the Edrei-Thoma theorem, connecting the finite and infinite theories.
+Abstract:&nbsp;
+
+-----------------------------------------------------------
+<br />
+
+14 February, 15:00-16:00, MACADAM BLDG MB1.3
+
+Speaker:&nbsp; **Asma Hassannezhad** (Bristol)
+
+Title:&nbsp; TBA
+
+Abstract:&nbsp;
 
 
 -----------------------------------------------------------
 <br />
 
-15 November, 15:00-16:00, Strand S2.29
+21 February, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; **Jesus Martínez García** (Essex)
+Speaker:&nbsp; **Cristiano Spotti** (Aarhus)
 
-Title:&nbsp; Some observations on the dimension of Fano K-moduli
+Title:&nbsp; TBA
 
-Abstract:&nbsp; Moduli spaces of K-stable Fano varieties have been intensively investigated in the last decade, both from a general theory point of view as well as via the study of explicit examples, mostly on the smoothable setting, i.e. where the general member of the moduli is smooth. However, the theory has now been extended to the non-smoothable setting, where a number of oddities can appear. In this talk, we will demonstrate via examples, how for any n>1, the dimension (as a scheme) of the K-moduli stack of n-dimensional Fano varieties is unbounded. We will also show how the dimension of the K-moduli stack can be arbitrarily big, while the dimension of its coarse variety remains bounded. This is joint work with Cristiano Spotti.
+Abstract:&nbsp;
+
+-----------------------------------------------------------
+<br />
+
+28 February, 15:00-16:00, MACADAM BLDG MB1.3
+
+Speaker:&nbsp; **Irene Pasquinelli** (Bristol)
+
+Title:&nbsp; TBA
+
+Abstract:&nbsp;
+
+-----------------------------------------------------------
+<br />
+
+7 March, 15:00-16:00, MACADAM BLDG MB1.3
+
+Speaker:&nbsp; Dino Festi, tbc
+
+Title:&nbsp;
+
+Abstract:&nbsp;
+
+-----------------------------------------------------------
+<br />
+
+14 March, 15:00-16:00, MACADAM BLDG MB1.3
+
+Speaker:&nbsp; **John Armstrong** (KCL)
+
+Title:&nbsp; Stochastic differentials on manifolds
+
+Abstract:&nbsp; Despite the name, stochastic differential equations (SDEs) are defined using integrals, but the standard notation hints at the existence of a “stochastic differential” in much the same way as the notation for deterministic integrals hints at the existence of differential forms. We will see how a stochastic differential can be rigorously defined and how this can be applied to give an elegant coordinate-free treatment of stochastic differential equations on manifolds
+
+-----------------------------------------------------------
+<br />
+
+21 March, 15:00-16:00, MACADAM BLDG MB1.3
+
+Speaker:&nbsp; **Laura Fredrickson** (Oregon, US)
+
+Title:&nbsp; TBA
+
+Abstract:&nbsp;
 
 
 -----------------------------------------------------------
 <br />
 
-22 November, 15:00-16:00, Strand S2.29
 
-Speaker:&nbsp; **Viveka Erlandsson** (Bristol)
+28 March, 15:00-16:00, MACADAM BLDG MB1.3
 
-Title:&nbsp; Reciprocal geodesics and dihedral subgroups of lattices in PSL(2, R)
+Speaker:&nbsp; **Farhad Babaee** (Bristol)
 
-Abstract:&nbsp; I will discuss the growth of the number of infinite dihedral subgroups of lattices G in PSL(2, R). Such subgroups exist whenever the lattice has 2-torsion and they are related to so-called reciprocal geodesics on the corresponding quotient orbifold.  These are closed geodesics passing through an even order orbifold point, or equivalently, homotopy classes of closed curves having a representative in the fundamental group that’s conjugate to its own inverse. We obtain the asymptotic growth of the number of reciprocal geodesics (or infinite dihedral subgroups) in any orbifold, generalizing earlier work of Sarnak and Bourgain-Kontorivich on the growth of the number of reciprocal geodesics on the modular surface. Time allowing, I will explain how our methods also show that reciprocal geodesics are equidistributed in the unit tangent bundle. This is joint work with Juan Souto.
+Title:&nbsp; TBA
 
------------------------------------------------------------
-<br />
-
-29 November, 15:00-16:00, Strand S2.29
-
-Speaker:&nbsp; **Soheyla Feyzbakhsh** (Imperial)
-
-Title:&nbsp; Fano threefolds and their semi-orthogonal decomposition
-
-Abstract:&nbsp; The derived category of a prime Fano threefold has a semi-orthogonal decomposition so that the most important information is included only in one piece of this decomposition, called the Kuznetsov component. In this talk, I will discuss some of the recent applications of Bridgeland stability conditions on the Kuznetsov component of Fano threefolds to study their geometry, e.g. analysing moduli spaces of Ulrich bundles, or discovering interesting relations between different Fano threefolds.
-
------------------------------------------------------------
-<br />
-
-6 December, 15:00-16:00, Strand S2.29
-
-Speaker:&nbsp; **Jean Lagace** (KCL)
-
-Title:&nbsp; Free boundary minimal surfaces in the unit ball and the *first* Steklov eigenvalue
-
-Abstract:&nbsp; Fraser and Schoen have uncovered a beautiful relationship between free boundary minimal surfaces in the unit ball and the Steklov problem: the coordinate functions of such surfaces are Steklov eigenfunctions with eigenvalue 1, and, on the other hand, the eigenfunctions for extremal metrics for the Steklov problem provide embeddings of free boundary minimal surfaces. The Fraser--Li conjecture states that not only are the coordinate functions Steklov eigenfunctions with eigenvalue 1, this eigenvalue is also the smallest non-zero one.
-
-In this talk, I will discuss the history of the problem, the relation with minimal surfaces in the sphere, and explain an elementary proof of special cases of the Fraser--Li conjecture assuming some additional symmetries.
-
------------------------------------------------------------
-<br />
-
-13 December, 15:00-16:00, Strand **S3.31**
-
-Speaker:&nbsp; **Stuart Hall** (Newcastle)
-
-Title:&nbsp; Rigidity of Einstein metrics 
-
-Abstract:&nbsp; Given an Einstein manifold (M,g) it is natural to ask whether g is a member of a family of such metrics or if it is isolated in the space of such metrics. This is not an easy question to answer in general, but Koiso made progress in the 1980s in the case of symmetric spaces. He identified certain spaces that admit infinitesimal deformations (candidates for the tangents to curves of Einstein metrics).
- 
-I will discuss recent joint work with Wafaa Batat, Tommy Murphy, and James Waldron showing some of the deformations are not integrable.
+Abstract:&nbsp;
