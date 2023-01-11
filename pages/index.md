@@ -34,7 +34,7 @@ Abstract:&nbsp; $\mathrm{G}_2$-instantons are a special kind of connections on a
 
 31 January, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; TBA
+Speaker:&nbsp; **João Paulo dos Santos** (Universidade de Brasília)
 
 Title:&nbsp;
 
@@ -45,7 +45,7 @@ Abstract:&nbsp;
 
 7 February, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; TBA
+Speaker:&nbsp; **Jijian Song** (Tianjin University)
 
 Title:&nbsp;
 
