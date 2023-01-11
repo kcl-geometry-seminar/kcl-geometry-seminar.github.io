@@ -12,7 +12,7 @@ The Seminar runs on *Tuesdays from 15:00 to 16:00* at **MACADAM BLDG MB1.3**
 
 17 January, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; TBA
+Speaker:&nbsp; No Seminar
 
 Title:&nbsp;
 
@@ -25,9 +25,9 @@ Abstract:&nbsp;
 
 Speaker:&nbsp; **Izar Alonso Lorenzo** (Oxford)
 
-Title:&nbsp; TBA
+Title:&nbsp; New examples of $\mathrm{SU}(2)^2$-invariant $\mathrm{G}_2$-instantons
 
-Abstract:&nbsp;
+Abstract:&nbsp; $\mathrm{G}_2$-instantons are a special kind of connections on a Riemannian $7$-manifold, analogues of anti-self-dual connections in $4$ dimensions. I will start this talk by describing $\mathrm{G}_2$-instantons and giving an overview of known examples and why are we interested in them. Then, I will explain how we construct $\mathrm{G}_2$-instantons in $\mathrm{SU}(2)^2$-invariant cohomogeneity one manifolds and give new explicit examples of $\mathrm{G}_2$-instantons on $\mathbb{R}^4 \times \mathbb{S}^3$ and $\mathbb{S}^4 \times \mathbb{S}^3$. I will then discuss the bubbling behaviour of sequences of $\mathrm{G}_2$-instantons found.
 
 -----------------------------------------------------------
 <br />
