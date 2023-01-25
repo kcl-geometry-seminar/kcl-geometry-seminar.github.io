@@ -36,9 +36,9 @@ Abstract:&nbsp; $\mathrm{G}_2$-instantons are a special kind of connections on a
 
 Speaker:&nbsp; **João Paulo dos Santos** (Universidade de Brasília)
 
-Title:&nbsp;
+Title:&nbsp; Hypersurfaces with constant scalar curvature and Einstein hypersurfaces in product spaces
 
-Abstract:&nbsp;
+Abstract:&nbsp; Let $M$ be either the unit $n$-sphere or the $n$-dimensional hyperbolic space, with $n>3$. Using graphs over families of parallel hypersurfaces in $M$, I will present existence results for symmetric hypersurfaces with constant scalar curvature in $M \times \mathbb{R}$. The technique will also be applied to show that an Einstein hypersurface in $M \times \mathbb{R}$ has constant sectional curvature. Finally, employing such graphs, I will provide new proofs of the main results by Manfio and Tojeiro on the classification of constant sectional curvature hypersurfaces in $M \times \mathbb{R}$. The talk is based on two joint works: with de Lima and Ramos (regarding the scalar curvature and the sectional curvature) and with Leandro and Pina (on the Einstein hypersurfaces).
 
 -----------------------------------------------------------
 <br />
