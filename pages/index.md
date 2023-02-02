@@ -47,9 +47,9 @@ Abstract:&nbsp; Let $M$ be either the unit $n$-sphere or the $n$-dimensional hyp
 
 Speaker:&nbsp; **Jijian Song** (Tianjin University)
 
-Title:&nbsp;
+Title:&nbsp; Irreducible cone spherical metrics and stable vector bundles
 
-Abstract:&nbsp;
+Abstract:&nbsp; Cone spherical metrics on compact Riemann surfaces are conformal metrics of constant curvature $+1$ with finitely many conical singularities. They are called $\textit{irreducible}$ if any developing maps of such metrics don't have monodromy in $\mathrm{U}(1)$.  By using projective structures and indigenous bundles on compact Riemann surfaces, we construct a canonical surjective map from the moduli space of stable extensions of two line bundles to that of irreducible cone spherical metrics with cone angles in $2\pi \mathbb{Z}$. We also prove that the map is generically injective in algebro-geometric sense if the Riemann surface has genus $>1$. As an application, we obtain some new existence results about irreducible cone spherical metrics. This is a joint work with Lingguang Li and Bin Xu.
 
 -----------------------------------------------------------
 <br />
