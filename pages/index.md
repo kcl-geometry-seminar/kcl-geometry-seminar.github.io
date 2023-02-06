@@ -56,9 +56,9 @@ Abstract:&nbsp; Cone spherical metrics on compact Riemann surfaces are conformal
 
 14 February, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; **Asma Hassannezhad** (Bristol)
+Speaker:&nbsp; No Seminar 
 
-Title:&nbsp; TBA
+Title:&nbsp; 
 
 Abstract:&nbsp;
 
@@ -79,9 +79,9 @@ Abstract:&nbsp;
 
 28 February, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; **Irene Pasquinelli** (Bristol)
+Speaker:&nbsp; No Seminar 
 
-Title:&nbsp; TBA
+Title:&nbsp; 
 
 Abstract:&nbsp;
 
