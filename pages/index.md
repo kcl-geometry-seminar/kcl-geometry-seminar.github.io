@@ -68,11 +68,11 @@ Abstract:&nbsp;
 
 21 February, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; **Cristiano Spotti** (Aarhus)
+Speaker:&nbsp; **Cristiano Spotti** (Aarhus University)
 
-Title:&nbsp; TBA
+Title:&nbsp; Special locally conformally Kähler metrics
 
-Abstract:&nbsp;
+Abstract:&nbsp;  In this seminar I will describe a generalization of the Donaldson-Fujiki moment map picture to the locally conformally symplectic case, with the aim of defining a suitable notion of canonical metrics in this setting. The talk is based on joint work with D. Angella, S. Calamai and F. Pediconi.
 
 -----------------------------------------------------------
 <br />
