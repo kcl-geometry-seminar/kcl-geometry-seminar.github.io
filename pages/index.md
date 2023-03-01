@@ -92,9 +92,9 @@ Abstract:&nbsp;
 
 Speaker:&nbsp; Dino Festi, tbc
 
-Title:&nbsp;
+Title:&nbsp; K3 surfaces with two involutions and low Picard number
 
-Abstract:&nbsp;
+Abstract:&nbsp; Having an automorphism is a non-trivial property for a complex K3 surface. Indeed, if X is a generic complex K3 surface of degree d >= 4, then the only automorphism of X is the identity. If X is a generic of degree d=2, then X admits only one involution beside the identity map. Hence a natural question arises: given a fixed positive even integer d, how special is it for a K3 surface of degree d to admit an involution? More precisely, what is the minimal Picard number h_d for a K3 surface of degree d in order to admit an involution as automorphism? In this talk we are going to show that h_d=2 for every d\geq 4. This is joint work with Wim Nijgh and Daniel Platt.
 
 -----------------------------------------------------------
 <br />
