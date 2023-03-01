@@ -90,7 +90,7 @@ Abstract:&nbsp;
 
 7 March, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; Dino Festi, tbc
+Speaker:&nbsp; **Dino Festi** (University of Milan)
 
 Title:&nbsp; K3 surfaces with two involutions and low Picard number
 
