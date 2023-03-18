@@ -114,9 +114,9 @@ Abstract:&nbsp; Despite the name, stochastic differential equations (SDEs) are d
 
 Speaker:&nbsp; **Laura Fredrickson** (Oregon, US)
 
-Title:&nbsp; TBA
+Title: The asymptotic geometry of the Hitchin moduli space
 
-Abstract:&nbsp;
+Abstract: Hitchin's equations are a system of gauge theoretic equations on a Riemann surface that are of interest in many areas including representation theory, Teichmüller theory, and the geometric Langlands correspondence. The Hitchin moduli space carries a natural hyperkähler metric.  An intricate conjectural description of its asymptotic structure appears in the work of Gaiotto-Moore-Neitzke and there has been a lot of progress on this recently.  I will discuss some recent results using tools coming out of geometric analysis which are well-suited for verifying these extremely delicate conjectures. This strategy often stretches the limits of what can currently be done via geometric analysis, and simultaneously leads to new insights into these conjectures.
 
 
 -----------------------------------------------------------
