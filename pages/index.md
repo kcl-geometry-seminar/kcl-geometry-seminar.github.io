@@ -127,6 +127,6 @@ Abstract: Hitchin's equations are a system of gauge theoretic equations on a Rie
 
 Speaker:&nbsp; **Farhad Babaee** (Bristol)
 
-Title:&nbsp; TBA
+Title:&nbsp; Dynamical tropicalisation
 
-Abstract:&nbsp;
+Abstract:&nbsp; In this talk, I will explain some applications of tropical geometry in complex geometry. I will also explain how tropicalisation can be viewed as an equidistribution result. 
