@@ -130,3 +130,114 @@ Speaker:&nbsp; **Farhad Babaee** (Bristol)
 Title:&nbsp; Dynamical tropicalisation
 
 Abstract:&nbsp; In this talk, I will explain some applications of tropical geometry in complex geometry. I will also explain how tropicalisation can be viewed as an equidistribution result. 
+
+
+-----------------------------------------------------------
+<br />
+
+
+18 April, 15:00-16:00, tba
+
+Speaker:&nbsp; Jordan Hofmann
+
+Title:&nbsp; tba
+
+Abstract:&nbsp; tba
+
+
+-----------------------------------------------------------
+<br />
+
+
+25 April, 15:00-16:00, tba
+
+Speaker:&nbsp; Irene Pasquinelli
+
+Title:&nbsp; tba
+
+Abstract:&nbsp; tba
+
+
+-----------------------------------------------------------
+<br />
+
+
+2 May, 15:00-16:00, tba
+
+Speaker:&nbsp; Aleksander Doan
+
+Title:&nbsp; tba
+
+Abstract:&nbsp; tba
+
+
+-----------------------------------------------------------
+<br />
+
+
+9 May, 15:00-16:00, tba
+
+Speaker:&nbsp; Alice Kerr (Bristol)
+
+Title:&nbsp; tba
+
+Abstract:&nbsp; tba
+
+
+-----------------------------------------------------------
+<br />
+
+
+16 May, 15:00-16:00, tba
+
+Speaker:&nbsp; Ivan Solonenko (King's College London)
+
+Title:&nbsp; tba
+
+Abstract:&nbsp; tba
+
+
+-----------------------------------------------------------
+<br />
+
+
+23 May, 15:00-16:00, tba
+
+Speaker:&nbsp; Laura Schaposnik
+
+Title:&nbsp; tba
+
+Abstract:&nbsp; tba
+
+
+-----------------------------------------------------------
+<br />
+
+
+30 May, 15:00-16:00, tba
+
+Speaker:&nbsp; Mark Gross
+
+Title:&nbsp; tba
+
+Abstract:&nbsp; tba
+
+
+-----------------------------------------------------------
+<br />
+
+
+6 June, NO SEMINAR
+
+
+-----------------------------------------------------------
+<br />
+
+
+13 June, 15:00-16:00, tba
+
+Speaker:&nbsp; Alexander Esterov
+
+Title:&nbsp; tba
+
+Abstract:&nbsp; tba
