@@ -138,7 +138,7 @@ Abstract:&nbsp; In this talk, I will explain some applications of tropical geome
 
 18 April, 15:00-16:00, tba
 
-Speaker:&nbsp; Jordan Hofmann
+Speaker:&nbsp; Jordan Hofmann (King's College London)
 
 Title:&nbsp; tba
 
@@ -151,7 +151,7 @@ Abstract:&nbsp; tba
 
 25 April, 15:00-16:00, tba
 
-Speaker:&nbsp; Irene Pasquinelli
+Speaker:&nbsp; Irene Pasquinelli (Bristol)
 
 Title:&nbsp; tba
 
@@ -164,7 +164,7 @@ Abstract:&nbsp; tba
 
 2 May, 15:00-16:00, tba
 
-Speaker:&nbsp; Aleksander Doan
+Speaker:&nbsp; Aleksander Doan (University College London, University of Cambridge)
 
 Title:&nbsp; tba
 
@@ -203,7 +203,7 @@ Abstract:&nbsp; tba
 
 23 May, 15:00-16:00, tba
 
-Speaker:&nbsp; Laura Schaposnik
+Speaker:&nbsp; Laura Schaposnik (All Souls College, Oxford, University of Illinois Chicago)
 
 Title:&nbsp; tba
 
@@ -216,7 +216,7 @@ Abstract:&nbsp; tba
 
 30 May, 15:00-16:00, tba
 
-Speaker:&nbsp; Mark Gross
+Speaker:&nbsp; Mark Gross (University of Cambridge)
 
 Title:&nbsp; tba
 
@@ -236,7 +236,7 @@ Abstract:&nbsp; tba
 
 13 June, 15:00-16:00, tba
 
-Speaker:&nbsp; Alexander Esterov
+Speaker:&nbsp; Alexander Esterov (London Institute for Mathematical Sciences)
 
 Title:&nbsp; tba
 
