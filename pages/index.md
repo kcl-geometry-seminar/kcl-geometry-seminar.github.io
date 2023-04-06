@@ -136,7 +136,7 @@ Abstract:&nbsp; In this talk, I will explain some applications of tropical geome
 <br />
 
 
-18 April, 15:00-16:00, tba
+18 April, 15:00-16:00, MACADAM BLDG MB1.3
 
 Speaker:&nbsp; Jordan Hofmann (King's College London)
 
@@ -149,7 +149,7 @@ Abstract:&nbsp; tba
 <br />
 
 
-25 April, 15:00-16:00, tba
+25 April, 15:00-16:00, MACADAM BLDG MB1.3
 
 Speaker:&nbsp; Irene Pasquinelli (Bristol)
 
@@ -162,7 +162,7 @@ Abstract:&nbsp; tba
 <br />
 
 
-2 May, 15:00-16:00, tba
+2 May, 15:00-16:00, MACADAM BLDG MB1.3
 
 Speaker:&nbsp; Aleksander Doan (University College London, University of Cambridge)
 
@@ -175,7 +175,7 @@ Abstract:&nbsp; tba
 <br />
 
 
-9 May, 15:00-16:00, tba
+9 May, 15:00-16:00, MACADAM BLDG MB1.3
 
 Speaker:&nbsp; Alice Kerr (Bristol)
 
@@ -188,7 +188,7 @@ Abstract:&nbsp; tba
 <br />
 
 
-16 May, 15:00-16:00, tba
+16 May, 15:00-16:00, MACADAM BLDG MB1.3
 
 Speaker:&nbsp; Ivan Solonenko (King's College London)
 
@@ -201,7 +201,7 @@ Abstract:&nbsp; tba
 <br />
 
 
-23 May, 15:00-16:00, tba
+23 May, 15:00-16:00, MACADAM BLDG MB1.3
 
 Speaker:&nbsp; Laura Schaposnik (All Souls College, Oxford, University of Illinois Chicago)
 
@@ -214,7 +214,7 @@ Abstract:&nbsp; tba
 <br />
 
 
-30 May, 15:00-16:00, tba
+30 May, 15:00-16:00, MACADAM BLDG MB1.3
 
 Speaker:&nbsp; Mark Gross (University of Cambridge)
 
@@ -234,7 +234,7 @@ Abstract:&nbsp; tba
 <br />
 
 
-13 June, 15:00-16:00, tba
+13 June, 15:00-16:00, STRAND BLDG S3.32
 
 Speaker:&nbsp; Alexander Esterov (London Institute for Mathematical Sciences)
 
