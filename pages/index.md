@@ -140,9 +140,9 @@ Abstract:&nbsp; In this talk, I will explain some applications of tropical geome
 
 Speaker:&nbsp; Jordan Hofmann (King's College London)
 
-Title:&nbsp; tba
+Title:&nbsp; Special Spinors and Homogeneous Geometries
 
-Abstract:&nbsp; tba
+Abstract:&nbsp; Spin geometry, and in particular special spinors, is strongly related to many areas of differential geometry, including immersion theory, G-structures, special holonomy, and Einstein metrics. Unfortunately, constructing examples of special spinors is often difficult in practice, and not many examples are known in dimension >8. In this talk I will discuss my PhD research, which approaches this problem in the homogeneous setting using tools from representation theory. In particular, I will discuss our classifications of the invariant spinors carried by the various homogeneous realizations of the sphere and the homogeneous 3-Sasakian spaces, and how these spinors are related to (and in some cases fully determine!) the geometry of the underlying spaces. This talk includes joint work with Ilka Agricola and Marie-Am\'elie Lawn.
 
 
 -----------------------------------------------------------
