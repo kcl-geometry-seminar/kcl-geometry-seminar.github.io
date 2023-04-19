@@ -138,7 +138,7 @@ Abstract:&nbsp; In this talk, I will explain some applications of tropical geome
 
 18 April, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; Jordan Hofmann (King's College London)
+Speaker:&nbsp; **Jordan Hofmann** (King's College London)
 
 Title:&nbsp; Special Spinors and Homogeneous Geometries
 
@@ -151,11 +151,11 @@ Abstract:&nbsp; Spin geometry, and in particular special spinors, is strongly re
 
 25 April, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; Irene Pasquinelli (Bristol)
+Speaker:&nbsp; **Irene Pasquinelli** (Bristol)
 
-Title:&nbsp; tba
+Title:&nbsp; Mapping class group orbit closures for non-orientable surfaces
 
-Abstract:&nbsp; tba
+Abstract:&nbsp; The space of measured laminations on a hyperbolic surface is a generalisation of the set of weighted multi curves. The action of the mapping class group on this space is an important tool in the study of the geometry of the surface. For orientable surfaces, orbit closures are now well-understood and were classified by Lindenstrauss and Mirzakhani. In particular, it is one of the pillars of Mirzakhani’s curve counting theorems. For non-orientable surfaces, the behaviour of this action is very different and the classification fails. In this talk I will review some of these differences. I will talk about some of these results and classify mapping class group orbit closures of (projective) measured laminations for non-orientable surfaces. This is joint work with Erlandsson, Gendulphe and Souto. 
 
 
 -----------------------------------------------------------
