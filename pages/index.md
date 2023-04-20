@@ -149,7 +149,7 @@ Abstract:&nbsp; Spin geometry, and in particular special spinors, is strongly re
 <br />
 
 
-25 April, 15:00-16:00, MACADAM BLDG MB1.3
+25 April, **14:00-15:00 (Irregular Time)**, MACADAM BLDG MB1.3
 
 Speaker:&nbsp; **Irene Pasquinelli** (Bristol)
 
