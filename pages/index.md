@@ -166,9 +166,9 @@ Abstract:&nbsp; The space of measured laminations on a hyperbolic surface is a g
 
 Speaker:&nbsp; Aleksander Doan (University College London, University of Cambridge)
 
-Title:&nbsp; tba
+Title:&nbsp; Symplectic invariants of Calabi-Yau threefolds
 
-Abstract:&nbsp; tba
+Abstract:&nbsp; This talk is about various curve counting invariants of Calabi-Yau threefolds or, more generally, symplectic manifolds of real dimension six.  After a brief overview of the subject, I will discuss joint work with E. Ionel and T. Walpuski on the Gopakumar-Vafa finiteness conjecture and an ongoing project with T. Walpuski, whose goal is to combine ideas from gauge theory, holomorphic curve theory, and geometric analysis to define new invariants of symplectic six-manifolds.
 
 
 -----------------------------------------------------------
