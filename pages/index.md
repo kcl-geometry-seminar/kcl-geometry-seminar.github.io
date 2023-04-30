@@ -192,9 +192,13 @@ Abstract:&nbsp; tba
 
 Speaker:&nbsp; Ivan Solonenko (King's College London)
 
-Title:&nbsp; tba
+Title:&nbsp; Homogeneous complex hypersurfaces in Hermitian symmetric spaces
 
-Abstract:&nbsp; tba
+Abstract:&nbsp; In his paper from 1968, B. Smyth classified homogeneous complex hypersurfaces (HCHs) in complex space forms: those are C^{n-1} in C^n, CH^{n-1} in CH^n, CP^{n-1} in CP^n, as well as the smooth quadric Q^{n-1} in CP^n (which is the only example that is not totally geodesic). By design, every HCH arises as an orbit of an isometric action of cohomogeneity 1 or 2. Peculiarly, all of the above examples come from C1-actions. This suggests the following question: is it true that any HCH in a Kähler manifold can be realized as a singular orbit of an isometric C1-action?
+
+I am going to talk about Konno’s classification of complex codimension-one embeddings of Kähler C-spaces (a.k.a. (generalized) complex flag manifolds) with b_2 = 1 and explain how it implies the classification of HCHs in irreducible Hermitian symmetric spaces of compact type. By combining that with Kollross’s classification of C1-actions, we will see that the answer to the above questions is ‘yes’ in this case.
+
+Finally, I will show how all non-totally-geodesic HCHs in irreducible compact Hermitian symmetric spaces can be obtained via the complexification construction for projective spaces over normed real division algebras.
 
 
 -----------------------------------------------------------
