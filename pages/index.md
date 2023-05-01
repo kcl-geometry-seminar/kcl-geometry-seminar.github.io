@@ -207,7 +207,7 @@ Finally, I will show how all non-totally-geodesic HCHs in irreducible compact He
 
 23 May, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; Laura Schaposnik (All Souls College, Oxford, University of Illinois Chicago)
+Speaker:&nbsp; tba
 
 Title:&nbsp; tba
 
