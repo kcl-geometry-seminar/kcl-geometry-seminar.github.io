@@ -179,9 +179,9 @@ Abstract:&nbsp; This talk is about various curve counting invariants of Calabi-Y
 
 Speaker:&nbsp; Alice Kerr (Bristol)
 
-Title:&nbsp; tba
+Title:&nbsp; Embedded subgroups in mapping class groups 
 
-Abstract:&nbsp; tba
+Abstract:&nbsp; A natural group to study is the group of orientation-preserving diffeomorphisms (or homeomorphisms) of a surface. This is a huge and complicated group, so we often tackle it by either looking at its identity component, or by quotienting it by its identity component. This quotient gives us the mapping class group, which is still a huge group in its own right, but turns out to be far more tractable, especially when using geometric tools. In this talk we will try to understand why the mapping class group has fascinated so many people, give an overview of its properties, and see an example of how the large classes of groups which embed in it benefit from these properties. 
 
 
 -----------------------------------------------------------
