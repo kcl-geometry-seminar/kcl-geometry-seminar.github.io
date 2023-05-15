@@ -207,11 +207,11 @@ Finally, I will show how all non-totally-geodesic HCHs in irreducible compact He
 
 23 May, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; tba
+Speaker:&nbsp; Ilyas Khan (University of Oxford)
 
-Title:&nbsp; tba
+Title:&nbsp; Uniqueness of Asymptotically Conical Gradient Shrinking Solitons in G_2-Laplacian Flow (joint with M. Haskins and A. Payne) 
 
-Abstract:&nbsp; tba
+Abstract:&nbsp; Riemannian 7-manifolds with holonomy equal to the exceptional Lie group G_2 are intensely studied objects in diverse domains of mathematics and physics. One approach to understanding such manifolds is through natural flows of 3-forms called G_2-structures, the most prominent of which is Bryant’s Laplacian flow.  In general, Laplacian flow is expected to encounter finite-time singularities and, as in the case of other flows, self-similar solutions should play a major role in the analysis of these singularities. In this talk, we will discuss recent joint work with M. Haskins and A. Payne in which we prove the uniqueness of asymptotically conical gradient shrinking solitons of the Laplacian flow of closed G_2 structures. We will particularly emphasize the unique difficulties that arise in the setting of Laplacian flow (in contrast to the Ricci flow, where an analogous result due to Kotschwar and Wang is well-known) and how to overcome these difficulties.
 
 
 -----------------------------------------------------------
