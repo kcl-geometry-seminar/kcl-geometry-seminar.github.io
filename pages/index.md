@@ -222,9 +222,9 @@ Abstract:&nbsp; Riemannian 7-manifolds with holonomy equal to the exceptional Li
 
 Speaker:&nbsp; Mark Gross (University of Cambridge)
 
-Title:&nbsp; tba
+Title:&nbsp; Mirror symmetry and partial compactifications of K3 moduli.
 
-Abstract:&nbsp; tba
+Abstract:&nbsp; I will talk about work with Hacking, Keel and Siebert on using mirror constructions to provide partial compactifications of the moduli of K3 surfaces. Starting with a one-parameter maximally unipotent degeneration of Picard rank 19 K3 surfaces, we construct, using methods of myself and Siebert, a mirror family which is defined in a formal neighbourhood of a union of strata of a toric variety whose fan is defined, to first approximation, as the Mori fan of the original degeneration. This formal family may then be glued in to the moduli space of polarized K3 surfaces to obtain a partial compactification. Perhaps the most significant by-product of this construction is the existence of theta functions in this formal neighbourhood, certain canonical bases for sections of powers of the polarizing line bundle.
 
 
 -----------------------------------------------------------
