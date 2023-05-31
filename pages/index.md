@@ -164,7 +164,7 @@ Abstract:&nbsp; The space of measured laminations on a hyperbolic surface is a g
 
 2 May, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; Aleksander Doan (University College London, University of Cambridge)
+Speaker:&nbsp; **Aleksander Doan** (University College London, University of Cambridge)
 
 Title:&nbsp; Symplectic invariants of Calabi-Yau threefolds
 
@@ -177,7 +177,7 @@ Abstract:&nbsp; This talk is about various curve counting invariants of Calabi-Y
 
 9 May, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; Alice Kerr (Bristol)
+Speaker:&nbsp; **Alice Kerr** (Bristol)
 
 Title:&nbsp; Embedded subgroups in mapping class groups 
 
@@ -190,7 +190,7 @@ Abstract:&nbsp; A natural group to study is the group of orientation-preserving 
 
 16 May, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; Ivan Solonenko (King's College London)
+Speaker:&nbsp; **Ivan Solonenko** (King's College London)
 
 Title:&nbsp; Homogeneous complex hypersurfaces in Hermitian symmetric spaces
 
@@ -207,7 +207,7 @@ Finally, I will show how all non-totally-geodesic HCHs in irreducible compact He
 
 23 May, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; Ilyas Khan (University of Oxford)
+Speaker:&nbsp; **Ilyas Khan** (University of Oxford)
 
 Title:&nbsp; Uniqueness of Asymptotically Conical Gradient Shrinking Solitons in G_2-Laplacian Flow (joint with M. Haskins and A. Payne) 
 
@@ -220,7 +220,7 @@ Abstract:&nbsp; Riemannian 7-manifolds with holonomy equal to the exceptional Li
 
 30 May, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; Mark Gross (University of Cambridge)
+Speaker:&nbsp; **Mark Gross** (University of Cambridge)
 
 Title:&nbsp; Mirror symmetry and partial compactifications of K3 moduli.
 
@@ -235,13 +235,27 @@ Abstract:&nbsp; I will talk about work with Hacking, Keel and Siebert on using m
 
 
 -----------------------------------------------------------
+
 <br />
 
 
-13 June, 15:00-16:00, STRAND BLDG S3.32
+13 June, 15:00-16:00, **STRAND BLDG S3.32 (Irregular location)**
 
-Speaker:&nbsp; Alexander Esterov (London Institute for Mathematical Sciences)
+Speaker:&nbsp; **Alexander Esterov** (London Institute for Mathematical Sciences)
 
 Title:&nbsp; tba
 
 Abstract:&nbsp; tba
+
+-----------------------------------------------------------
+<br />
+
+
+20 June, 15:00-16:00, **STRAND BLDG S2.29 (Irregular location)**
+
+Speaker:&nbsp; **Gabino Gonzalez Diez** (Universidad Autónoma de Madrid)
+
+Title:&nbsp; Dessins d'enfants, filling curves and their associated Riemann surfaces.
+
+Abstract:&nbsp; A filling curve $c$ in a closed oriented surface $X$ determines a complex analytic structure on $X$ in two different ways.
+One is via Grothendieck’s theory of dessins d’enfants. The other one arises as the hyperbolic structure on $X$ that minimises the length of the curve $c$.  We show that these two complex structures agree at least in the case in which the curve $c$ admits a homotopy representative in minimal position such that all self-intersection points have the same self-intersection number and all the faces of the complement $X \setminus c$ have the same degree. This is joint work with E. Girondo and R. Hidalgo.
