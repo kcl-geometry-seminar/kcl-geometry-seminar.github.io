@@ -243,9 +243,10 @@ Abstract:&nbsp; I will talk about work with Hacking, Keel and Siebert on using m
 
 Speaker:&nbsp; **Alexander Esterov** (London Institute for Mathematical Sciences)
 
-Title:&nbsp; tba
+Title:&nbsp; Solvable systems of equations, Galois groups in enumerative geometry, and small lattice polytopes
 
-Abstract:&nbsp; tba
+Abstract:&nbsp; The general polynomial of a degree higher than 4 cannot be solved by radicals. This classical theorem has a multidimensional version: solvable general systems of polynomial equations are in (almost) one-to-one correspondence with lattice polytopes of volume 4, and the latters admit a finite classification.
+In the narrow sense, I will talk about this xix-century-style result. In a broader sense, we shall look at the Galois groups of problems of enumerative geometry (such as Schubert calculus), and how their study leads to seemingly distant topics such as polyhedral geometry and braid groups.
 
 -----------------------------------------------------------
 <br />
