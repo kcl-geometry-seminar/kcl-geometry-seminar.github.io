@@ -241,7 +241,7 @@ Abstract:&nbsp; I will talk about work with Hacking, Keel and Siebert on using m
 
 13 June, 15:00-16:00, **STRAND BLDG S3.32 (Irregular location)**
 
-Speaker:&nbsp; **Alexander Esterov** (London Institute for Mathematical Sciences)
+Speaker:&nbsp; **Alexander Esterov** (London Institute for Mathematical Sciences [LIMS])
 
 Title:&nbsp; Solvable systems of equations, Galois groups in enumerative geometry, and small lattice polytopes
 
