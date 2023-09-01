@@ -1,5 +1,5 @@
 ---
-title: Winter 2023
+title: Autumn 2023
 ---
 
 
