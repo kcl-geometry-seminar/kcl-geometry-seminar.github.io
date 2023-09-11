@@ -10,13 +10,9 @@ The Seminar runs on *Tuesdays from 15:00 to 16:00* at **MACADAM BLDG MB1.3**
 ----------------------------------------------------------------
 <br />
 
-25 September, 15:00-16:00, MACADAM BLDG MB1.3
+25 September
 
-Speaker:&nbsp; No Seminar
-
-Title:&nbsp;
-
-Abstract:&nbsp;
+No Seminar
 
 ---------------------------------------------------------
 <br />
@@ -66,13 +62,10 @@ Abstract:&nbsp;
 -----------------------------------------------------------
 <br />
 
-31 October, 15:00-16:00, MACADAM BLDG MB1.3
+31 October
 
-Speaker:&nbsp; No Seminar
+Reading Week. No Seminar
 
-Title:&nbsp;
-
-Abstract:&nbsp;  
 
 -----------------------------------------------------------
 <br />
