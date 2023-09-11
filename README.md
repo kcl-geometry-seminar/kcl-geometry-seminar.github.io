@@ -1,7 +1,7 @@
 # KCL Geometry Seminar
 
 This is the repository for the Geometry Seminar at King's College London.
-The organizers are Daniel Platt, Mehdi Yazdi, and Martin de Borbon.
+The organizers are Jordan Hofmann, Tim Magee, Calum Spicer, and Mehdi Yazdi.
 
 ## Edit
 
