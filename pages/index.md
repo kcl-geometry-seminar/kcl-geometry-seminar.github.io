@@ -19,11 +19,12 @@ No Seminar
 
 3 October, 15:00-16:00, MACADAM BLDG MB1.3
 
-Speaker:&nbsp; **Sebastian Velazquez** (King's College London)
+Speaker:&nbsp; **Sebastián Velazquez** (King's College London)
 
-Title:&nbsp;
+Title:&nbsp;  On the deformation theory of L-foliations
 
-Abstract:&nbsp;
+Abstract:&nbsp;  We will review some general concepts of deformation theory. Then we will apply these ideas in order to explore the geometry of the moduli space $Inv$ of foliations on a given variety $X$  around the points corresponding to foliations induced by Lie group actions.  More precisely, let $X$ be a smooth projective variety over the complex numbers and $S(d)$ the scheme parametrizing $d$-dimensional Lie subalgebras of $H^0(X,\mathcal{T} X)$.  For every $\mathfrak{g} \in S(d)$ one can consider the corresponding element $\mathcal{F}(\mathfrak{g})\in Inv$, whose generic leaf coincides with an orbit of the action of $\exp(\mathfrak{g})$ on $X$. We will show that under mild hypotheses, after taking a stratification $\coprod_i S(d)_i\to S(d)$ this assignment yields an isomorphism $\coprod_i S(d)_i\to Inv$ locally around $\mathfrak{g}$ and $\mathcal{F}(\mathfrak{g})$.
+
 
 -----------------------------------------------------------
 <br />
