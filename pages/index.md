@@ -44,9 +44,10 @@ Abstract:&nbsp;
 
 Speaker:&nbsp; **Asma Hassannezhad** (University of Bristol)
 
-Title:&nbsp;
+Title:&nbsp; Steklov eigenvalues of negatively curved manifolds
 
-Abstract:&nbsp;
+Abstract:&nbsp; The geometry and topology of negatively curved manifolds are subtly reflected in a geometric bound for the Laplace eigenvalues, a connection that has been explored since the 1980s. Building upon these foundational studies in the case of the Laplacian, we investigate the Steklov eigenvalues of pinched negatively curved manifolds with totally geodesic boundary. These eigenvalues are associated with a first-order elliptic pseudodifferential operator known as the Dirichlet-to-Neumann operator. We discuss how the results for Laplace eigenvalues can be extended to Steklov eigenvalues. In particular, we show a spectral gap for the Steklov eigenvalue problem in negatively curved manifolds with dimensions of at least three.
+This talk is based on joint work with Ara Basjmaian, Jade Brisson, and Antoine Métras.
 
 -----------------------------------------------------------
 <br />
