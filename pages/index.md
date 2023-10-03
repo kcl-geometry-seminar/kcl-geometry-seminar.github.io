@@ -3,7 +3,7 @@ title: Autumn 2023
 ---
 
 
-The Seminar runs on *Tuesdays from 15:00 to 16:00* at **STRAND BLDG S2.29**
+The Seminar runs on *Tuesdays from 15:00 to 16:00* at **STRAND BLDG S4.29**
 
 
 
@@ -17,7 +17,7 @@ No Seminar
 ---------------------------------------------------------
 <br />
 
-3 October, 15:00-16:00, STRAND BLDG S2.29
+3 October, 15:00-16:00, STRAND BLDG S4.29
 
 Speaker:&nbsp; **Sebastián Velazquez** (King's College London)
 
@@ -29,7 +29,7 @@ Abstract:&nbsp;  We will review some general concepts of deformation theory. The
 -----------------------------------------------------------
 <br />
 
-10 October, 15:00-16:00, STRAND BLDG S2.29
+10 October, 15:00-16:00, STRAND BLDG S4.29
 
 Speaker:&nbsp; **Albert Wood** (King's College London)
 
@@ -40,7 +40,7 @@ Abstract:&nbsp;
 -----------------------------------------------------------
 <br />
 
-17 October, 15:00-16:00, STRAND BLDG S2.29
+17 October, 15:00-16:00, STRAND BLDG S4.29
 
 Speaker:&nbsp; **Asma Hassannezhad** (University of Bristol)
 
@@ -52,7 +52,7 @@ This talk is based on joint work with Ara Basjmaian, Jade Brisson, and Antoine M
 -----------------------------------------------------------
 <br />
 
-24 October, 15:00-16:00, STRAND BLDG S2.29
+24 October, 15:00-16:00, STRAND BLDG S4.29
 
 Speaker:&nbsp; **Oscar Randal-Williams** (University of Cambridge)
 
@@ -72,7 +72,7 @@ Reading Week. No Seminar
 -----------------------------------------------------------
 <br />
 
-7 November, 15:00-16:00, STRAND BLDG S2.29
+7 November, 15:00-16:00, STRAND BLDG S4.29
 
 Speaker:&nbsp; TBD
 
@@ -83,7 +83,7 @@ Abstract:&nbsp;
 -----------------------------------------------------------
 <br />
 
-14 November, 15:00-16:00, STRAND BLDG S2.29
+14 November, 15:00-16:00, STRAND BLDG S4.29
 
 Speaker:&nbsp; TBD
 
@@ -94,7 +94,7 @@ Abstract:&nbsp;
 -----------------------------------------------------------
 <br />
 
-21 November, 15:00-16:00, STRAND BLDG S2.29
+21 November, 15:00-16:00, STRAND BLDG S4.29
 
 Speaker:&nbsp; TBD
 
@@ -105,7 +105,7 @@ Abstract:&nbsp;
 -----------------------------------------------------------
 <br />
 
-28 November, 15:00-16:00, STRAND BLDG S2.29
+28 November, 15:00-16:00, STRAND BLDG S4.29
 
 Speaker:&nbsp; TBD
 
@@ -116,7 +116,7 @@ Abstract:&nbsp;
 -----------------------------------------------------------
 <br />
 
-5 December, 15:00-16:00, STRAND BLDG S2.29
+5 December, 15:00-16:00, STRAND BLDG S4.29
 
 Speaker:&nbsp; **Dario Beraldo** (University College London)
 
