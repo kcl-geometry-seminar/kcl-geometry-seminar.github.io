@@ -33,9 +33,13 @@ Abstract:&nbsp;  We will review some general concepts of deformation theory. The
 
 Speaker:&nbsp; **Albert Wood** (King's College London)
 
-Title:&nbsp;
+Title:&nbsp; Cohomogeneity-one Lagrangian Mean Curvature Flow
 
-Abstract:&nbsp;
+Abstract:&nbsp; Mean Curvature Flow, the negative gradient flow for the volume functional of submanifolds of Riemannian manifolds, is a well-studied field of modern geometric analysis. Of particular interest are classifications of self-similar solutions (shrinkers, expanders, and translators) and finite-time singularities; projects which when completed will hopefully allow one to apply the flow to prove results in Riemannian geometry and differential topology. Moreover, in a Calabi-Yau manifold the class of Lagrangian submanifolds is preserved by mean curvature flow, a fact which inspired Thomas and Yau to make influential conjectures about existence of special Lagrangians in Calabi-Yau manifolds.
+
+In this talk, we aim to make progress towards an understanding of self-similar solutions and singularities of Lagrangian mean curvature flow, by focusing on Lagrangians in C^n that are cohomogeneity-one under the action of a compact Lie group. Interestingly, each such Lagrangian lies in a level set \mu^{-1}(c) of the moment map \mu, and mean curvature flow preserves this containment.  Using this, we classify all shrinking, expanding, and translating solitons, and in the zero level set \mu^{-1}(0), we classify the Type I and Type II blowup models of LMCF singularities. Finally, given any special Lagrangian in \mu^{-1}(0), we'll show that it arises as a Type II blowup, thereby yielding infinitely many new singularity models of Lagrangian mean curvature flow.
+
+The results presented in this talk are contained in the preprint ‘Cohomogeneity-One Lagrangian Mean Curvature Flow’, which is jointly written with Jesse Madnick, University of Oregon. 
 
 -----------------------------------------------------------
 <br />
