@@ -111,7 +111,7 @@ Abstract:&nbsp;
 
 28 November, 15:00-16:00, STRAND BLDG S4.29
 
-Speaker:&nbsp; TBD
+Speaker:&nbsp; **Joel Fine** (Université Libre de Bruxelles)
 
 Title:&nbsp;
 
