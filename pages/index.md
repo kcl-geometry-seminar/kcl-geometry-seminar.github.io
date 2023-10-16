@@ -60,9 +60,9 @@ This talk is based on joint work with Ara Basjmaian, Jade Brisson, and Antoine M
 
 Speaker:&nbsp; **Oscar Randal-Williams** (University of Cambridge)
 
-Title:&nbsp;
+Title:&nbsp; Monodromy and mapping class groups of 3-dimensional hypersurfaces
 
-Abstract:&nbsp;
+Abstract:&nbsp; Kreck and Su have recently described, almost completely, the mapping class group of a smooth hypersurface in $\mathbb{C}P^4$. There is a "monodromy" map from the fundamental group of the space of all smooth hypersurfaces in $\mathbb{C}P^4$ to this mapping class group, and I will explain how the image of this map can be described. I will then give some idea of the differential topology methods which go into the proof.
 
 
 -----------------------------------------------------------
