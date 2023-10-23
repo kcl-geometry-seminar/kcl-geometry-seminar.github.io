@@ -100,11 +100,11 @@ Abstract:&nbsp;
 
 21 November, 15:00-16:00, STRAND BLDG S4.29
 
-Speaker:&nbsp; TBD
+Speaker:&nbsp; **Steven Sivek** (Imperial College London)
 
-Title:&nbsp;
+Title:&nbsp;Rational homology spheres and $\mathrm{SL}(2,\mathbb{C})$ representations
 
-Abstract:&nbsp;
+Abstract:&nbsp; Building on non-vanishing theorems of Kronheimer and Mrowka in instanton Floer homology, Zentner proved that if $Y$ is a homology 3-sphere other than $\mathbb{S}^3$, then its fundamental group admits a homomorphism to $\mathrm{SL}(2,\mathbb{C})$ with non-abelian image. In this talk, I’ll explain how to generalize this to any $Y$ whose first homology is 2-torsion or 3-torsion, other than the connect sum of $n$ copies of $\mathbb{R}\mathrm{P}^3$ for any $n$ or lens spaces of order $3$. This is joint work with Sudipta Ghosh and Raphael Zentner.
 
 -----------------------------------------------------------
 <br />
