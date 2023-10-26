@@ -78,7 +78,7 @@ Reading Week. No Seminar
 
 7 November, 15:00-16:00, STRAND BLDG S4.29
 
-Speaker:&nbsp; TBD
+Speaker:&nbsp; **Yen-An Chen** (National Center for Theoretical Sciences)
 
 Title:&nbsp;
 
@@ -89,7 +89,7 @@ Abstract:&nbsp;
 
 14 November, 15:00-16:00, STRAND BLDG S4.29
 
-Speaker:&nbsp; TBD
+Speaker:&nbsp; **Soham Karwa** (Imperial College London)
 
 Title:&nbsp;
 
