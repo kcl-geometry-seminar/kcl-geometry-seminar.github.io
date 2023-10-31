@@ -3,7 +3,7 @@ title: Autumn 2023
 ---
 
 
-The Seminar runs on *Tuesdays from 15:00 to 16:00* at **STRAND BLDG S4.29**
+The Seminar runs on *Tuesdays from 15:00 to 16:00* at **STRAND BLDG S4.29** except on 21 Nov and 5 Dec. 
 
 
 
@@ -98,7 +98,9 @@ Abstract:&nbsp;
 -----------------------------------------------------------
 <br />
 
-21 November, 15:00-16:00, STRAND BLDG S4.29
+21 November, **14:00-15:00**, **STRAND BLDG S-2.25** 
+
+**Note irregular time and location due to department colloquium**
 
 Speaker:&nbsp; **Steven Sivek** (Imperial College London)
 
