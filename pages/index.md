@@ -80,9 +80,9 @@ Reading Week. No Seminar
 
 Speaker:&nbsp; **Yen-An Chen** (National Center for Theoretical Sciences)
 
-Title:&nbsp;
+Title:&nbsp; MMP for toric foliations 
 
-Abstract:&nbsp;
+Abstract:&nbsp; In recent years, significant progress has been made in the field of birational geometry for foliations. Notably, the Minimal Model Program (MMP) has been shown to work for foliations on threefolds. In this talk, I will demonstrate that the MMP is applicable to toric foliations as well. Specifically, I will discuss how non-dicritical singularities (and foliated dlt singularities if time permits) are preserved under the MMP. This is a joint work with Chih-Wei Chang.
 
 -----------------------------------------------------------
 <br />
