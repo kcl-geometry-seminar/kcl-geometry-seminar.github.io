@@ -91,9 +91,9 @@ Abstract:&nbsp; In recent years, significant progress has been made in the field
 
 Speaker:&nbsp; **Soham Karwa** (Imperial College London)
 
-Title:&nbsp;
+Title:&nbsp; Non-archimedean periods for log Calabi-Yau surfaces
 
-Abstract:&nbsp;
+Abstract:&nbsp; Period integrals are a fundamental concept in algebraic geometry and number theory. In this talk, we will study the notion of non-archimedean periods as introduced by Kontsevich and Soibelman.  We will give an overview of the non-archimedean SYZ program, which is a close analogue of the classical SYZ conjecture in mirror symmetry. Using the non-archimedean SYZ fibration, we will prove that non-archimedean periods recover the analytic periods for log Calabi-Yau surfaces, verifying a conjecture of Kontsevich and Soibelman. This is joint work with Jonathan Lai.
 
 -----------------------------------------------------------
 <br />
@@ -124,7 +124,7 @@ Abstract:&nbsp;
 
 5 December, 15:00-16:00, STRAND BLDG S4.29
 
-Speaker:&nbsp; **Dario Beraldo** (University College London)
+Speaker:&nbsp; 
 
 Title:&nbsp;
 
