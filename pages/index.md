@@ -122,12 +122,14 @@ Abstract:&nbsp;
 -----------------------------------------------------------
 <br />
 
-5 December, 15:00-16:00, STRAND BLDG S4.29
+5 December, **14:00-15:00**, **STRAND BLDG S-2.25** 
 
-Speaker:&nbsp; 
+**Note irregular time and location due to department colloquium**
 
-Title:&nbsp;
+Speaker:&nbsp; Pavel Tumarkin (Durham University)
 
-Abstract:&nbsp;
+Title:&nbsp; TBD
+
+Abstract:&nbsp; TBD
 
 -----------------------------------------------------------
