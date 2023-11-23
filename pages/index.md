@@ -115,9 +115,10 @@ Abstract:&nbsp; Building on non-vanishing theorems of Kronheimer and Mrowka in i
 
 Speaker:&nbsp; **Joel Fine** (Université Libre de Bruxelles)
 
-Title:&nbsp;
+Title:&nbsp; Knots, minimal surfaces and $J$-holomorphic curves
 
-Abstract:&nbsp;
+Abstract:&nbsp; Let $K$ be a knot or link in the 3-sphere, thought of as the ideal boundary of hyperbolic 4-space $\mathbb{H}^4$. I will describe a programme to count minimal surfaces in $\mathbb{H}^4$ which have $K$ as their asymptotic boundary. This should give an isotopy invariant of the knot. I will explain what has been proved and what remains to be done. Minimal surfaces correspond to $J$-holomorphic curves in the twistor space $Z\to\mathbb{H}^4$, and so this invariant can be seen as a Gromov-Witten type invariant of $Z$. The big difference with the “standard” situation is that the almost complex structure on $Z$ (equivalently, the metric on $\mathbb{H}^4$) blows up at the boundary. This means the $J$-holomorphic equation, or minimal surface equation, becomes degenerate at the boundary of the domain. As a consequence, both the Fredholm and compactness parts of the story need to be reworked by hand. If there is time I will explain how this can be done, relying on results of Mazzeo-Melrose from the 0-calculus, and also some results from the theory of minimal surfaces. 
+
 
 -----------------------------------------------------------
 <br />
