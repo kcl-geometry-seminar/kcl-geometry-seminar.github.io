@@ -129,8 +129,8 @@ Abstract:&nbsp; Let $K$ be a knot or link in the 3-sphere, thought of as the ide
 
 Speaker:&nbsp; Pavel Tumarkin (Durham University)
 
-Title:&nbsp; TBD
+Title:&nbsp; Quiver mutations, Coxeter groups and hyperbolic manifolds
 
-Abstract:&nbsp; TBD
+Abstract:&nbsp; Mutations of quivers were introduced by Fomin and Zelevinsky in the context of cluster algebras. Since then, mutations appear (sometimes completely unexpectedly) in various domains of mathematics and physics. Using mutations of quivers, Barot and Marsh constructed a series of presentations of finite Coxeter groups as quotients of infinite Coxeter groups. I will discuss a geometric interpretation of this construction: these presentations give rise to a construction of geometric manifolds with large symmetry groups, in particular to some hyperbolic manifolds of relatively small volume with proper actions of Coxeter groups. If time permits, I will discuss a generalization of the construction of Barot and Marsh leading to a new invariant of bordered marked surfaces, and relation to extended affine Weyl groups. The talk is based on joint works with Anna Felikson, John Lawson and Michael Shapiro.
 
 -----------------------------------------------------------
