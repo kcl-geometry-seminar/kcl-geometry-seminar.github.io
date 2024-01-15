@@ -127,7 +127,7 @@ Abstract:&nbsp;
 
 26 March, 15:00-16:00, STRAND BLDG S4.29
 
-Speaker:&nbsp; TBD
+Speaker:&nbsp; **Michael Wemyss** (University of Glasgow)
 
 Title:&nbsp;
 
