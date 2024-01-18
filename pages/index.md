@@ -25,9 +25,9 @@ Abstract:&nbsp;
 
 Speaker:&nbsp; **Cheuk Yu Mak** (University of Southampton)
 
-Title:&nbsp;
+Title:&nbsp; Loop group action on symplectic cohomology
 
-Abstract:&nbsp;
+Abstract:&nbsp; For a compact Lie group G, its massless Coulomb branch algebra is the G-equivariant Borel-Moore homology of its based loop space. This algebra is the same as the algebra of regular functions on the BFM space. In this talk, we will explain how this algebra acts on the equivariant symplectic cohomology of Hamiltonian G-manifolds when the symplectic manifolds are open and convex. This is a generalization of the closed case where symplectic cohomology is replaced with quantum cohomology. Following Teleman, we also explain how it relates to the Coulomb branch algebra of cotangent-type representations. This is joint work with Eduardo González and Dan Pomerleano.
 
 ---------------------------------------------------------
 <br />
