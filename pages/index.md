@@ -36,9 +36,13 @@ Abstract:&nbsp; For a compact Lie group G, its massless Coulomb branch algebra i
 
 Speaker:&nbsp; **Andrew Dancer** (University of Oxford)
 
-Title:&nbsp;
+Title:&nbsp; Implosion, contraction and nonreductive quotients
 
-Abstract:&nbsp;
+Abstract:&nbsp; We describe the constructions of implosion and contraction for
+complex-symplectic or hyperkahler manifolds. Implosions are examples
+of nonreductive quotients in geometric invariant theory. We can
+interpret both constructions in terms of a generalisation of the
+Moore-Tachikawa category that was introduced in physics.
 
 ---------------------------------------------------------
 <br />
