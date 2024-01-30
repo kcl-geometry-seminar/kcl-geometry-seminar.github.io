@@ -51,9 +51,9 @@ Moore-Tachikawa category that was introduced in physics.
 
 Speaker:&nbsp; **Liana Heuberger** (University of Bath)
 
-Title:&nbsp;
+Title:&nbsp; Applications of Laurent inversion to K-moduli
 
-Abstract:&nbsp;
+Abstract:&nbsp; I will discuss how to use Laurent inversion, a technique coming from mirror symmetry which constructs toric embeddings, to study the local structure of the K-moduli space of a K-polystable toric Fano variety. More specifically, starting from a toric Fano 3-fold X of anticanonical volume 28 which smooths to a Fano threefold of Picard rank 4, we combine a local study of its singularities with the global deformation provided by Laurent inversion, and conclude that the K-moduli space is rational around X. This is joint work with Andrea Petracci.
 
 ---------------------------------------------------------
 <br />
