@@ -62,9 +62,9 @@ Abstract:&nbsp; I will discuss how to use Laurent inversion, a technique coming 
 
 Speaker:&nbsp; **Vlad Markovic** (University of Oxford)
 
-Title:&nbsp;
+Title:&nbsp; Distribution of random quasifuchsian surfaces in 3-manifolds
 
-Abstract:&nbsp;
+Abstract:&nbsp; I will discuss the distribution of geometrically and topologically nearly geodesic random surfaces in a closed hyperbolic 3-manifold $M$, and describe  the resulting $\mathrm{PSL}(2,\mathbb{R})$ invariant measures on the Grassmann bundle of $M$. (Joint work with J. Kahn and I. Smilga.)
 
 ---------------------------------------------------------
 <br />
