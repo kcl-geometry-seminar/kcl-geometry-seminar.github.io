@@ -73,9 +73,11 @@ Abstract:&nbsp; I will discuss the distribution of geometrically and topological
 
 Speaker:&nbsp; **Clement Dupont** (Université de Montpellier)
 
-Title:&nbsp;
+Title:&nbsp; How to compute divergent integrals using logarithmic geometry
 
-Abstract:&nbsp;
+Abstract:&nbsp; One is sometimes faced with the task of assigning finite values to divergent integrals in a consistent and meaningful way. Since differential forms and integrals play a central role in geometry, how to think about divergent integrals in geometric terms? The goal of this talk will be to answer this question in the case of logarithmic divergences (such as the integral of 1/x near x=0).
+The idea is to pass from manifolds to slightly more general objects called manifolds with log corners. They are the differential geometer’s version of logarithmic varieties in algebraic geometry. A key ingredient of our construction is a new notion of morphism between manifolds with log corners (or logarithmic varieties) which is more flexible than the obvious one and faithfully records the geometric information needed to regularize divergent integrals.
+This is joint work with Erik Panzer and Brent Pym.
 
 ---------------------------------------------------------
 
