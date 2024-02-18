@@ -95,7 +95,9 @@ Abstract:&nbsp;
 
 <br />
 
-5 March, 15:00-16:00, STRAND BLDG S4.29
+5 March, **11:00-12:00**, STRAND BLDG **S3.31***  
+
+***Note non-standard time and location**
 
 Speaker:&nbsp; **Dario Beraldo** (University College London)
 
