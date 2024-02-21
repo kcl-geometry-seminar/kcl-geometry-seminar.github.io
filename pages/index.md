@@ -87,9 +87,9 @@ This is joint work with Erik Panzer and Brent Pym.
 
 Speaker:&nbsp; **Richard Webb** (The University of Manchester)
 
-Title:&nbsp;
+Title:&nbsp; An equator theorem for the 2-sphere
 
-Abstract:&nbsp;
+Abstract:&nbsp; In this talk, we will focus on the group of Hamiltonian diffeomorphisms (and area-preserving homeomorphisms) of the 2-sphere. A tremendous amount of progress has been made in the study of these groups in the last few years, but many problems remain, including the Equator Conjecture. An equator on the 2-sphere is a simple closed curve whose complementary components have equal area. The Equator Conjecture predicts that for any positive K, there are pairs of equators such that any Hamiltonian diffeomorphism sending one equator to the other must have Hofer norm larger than K. We will prove an alternative conjecture, by replacing "Hofer norm" with "quantitative fragmentation norm". To prove this, we construct new quasimorphisms defined on all area-preserving homeomorphisms on the 2-sphere, coming from methods inspired from mapping class groups and geometric group theory. Joint work with Yongsheng Jia.
 
 ---------------------------------------------------------
 
