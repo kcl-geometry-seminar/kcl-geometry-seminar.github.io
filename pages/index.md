@@ -101,9 +101,11 @@ Abstract:&nbsp; In this talk, we will focus on the group of Hamiltonian diffeomo
 
 Speaker:&nbsp; **Dario Beraldo** (University College London)
 
-Title:&nbsp;
+Title:&nbsp; On the geometric Langlands conjecture
 
-Abstract:&nbsp;
+Abstract:&nbsp; I will outline the recent proof of the (global, unramified) geometric Langlands conjecture, obtained in collaboration with Arinkin, Chen, Gaitsgory, Faergeman, Lin, Raskin and Rozenblyum.
+
+The talk is aimed at non-specialists: in particular, I will highlight some key geometric ingredients that might be useful in other situations.
 
 ---------------------------------------------------------
 
