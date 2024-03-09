@@ -115,9 +115,9 @@ The talk is aimed at non-specialists: in particular, I will highlight some key g
 
 Speaker:&nbsp; **Marta Mazzocco** (University of Birmingham)
 
-Title:&nbsp;
+Title:&nbsp; Triangulations, cluster varieties and GDAHA
 
-Abstract:&nbsp;
+Abstract:&nbsp; In this talk, I will explain how to apply the Fock-Goncharov construction to the representation theory of a class of algebras introduced by Etingof, Oblomkov and Rains.
 
 ---------------------------------------------------------
 
