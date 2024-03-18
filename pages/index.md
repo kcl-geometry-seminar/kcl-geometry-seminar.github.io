@@ -127,9 +127,9 @@ Abstract:&nbsp; In this talk, I will explain how to apply the Fock-Goncharov con
 
 Speaker:&nbsp; **Marie-Amélie Lawn** (Imperial College London)
 
-Title:&nbsp;
+Title:&nbsp; Generalized spin structures and homogeneous spaces
 
-Abstract:&nbsp;
+Abstract:&nbsp; Spin geometry is a useful tool to describe geometric properties of manifolds. For instance, it is well-known that a manifold admitting parallel spinors has to be Ricci flat. Another example is Seiberg-Witten theory which relies on the existence of a notion of spin structure on 4-manifolds.  However not every manifold admits a classical spin structure. In this talk we generalise this notion, so that every manifold admits a generalised spin structure. We look at obstructions for such structure and study their G-equivariance in the case of homogeneous spaces G/H. We will discuss the spheres as an example.
 
 ---------------------------------------------------------
 
@@ -144,4 +144,3 @@ Title:&nbsp;
 Abstract:&nbsp;
 
 ---------------------------------------------------------
-
