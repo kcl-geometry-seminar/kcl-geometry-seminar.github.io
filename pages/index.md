@@ -139,8 +139,8 @@ Abstract:&nbsp; Spin geometry is a useful tool to describe geometric properties 
 
 Speaker:&nbsp; **Michael Wemyss** (University of Glasgow)
 
-Title:&nbsp;
+Title:&nbsp; Crepant Curves: Categories, Classification and Contractibility.
 
-Abstract:&nbsp;
+Abstract:&nbsp; Motivated by various contraction conjectures, categorical statements, and classification theorems, and also by the seemingly insatiable urge to rewrite all of mathematics using only the letter C, I will describe the full A_infty structure associated to a general (-3,1)-curve inside a smooth CY 3-fold.  This sounds complicated, but it turns out to be combinatorial and easy.  Of course, most of the talk will be about background, and the motivation for considering these questions, including the analytic classification of 3-fold flops using noncommutative data.  This is all joint work with Gavin Brown.
 
 ---------------------------------------------------------
