@@ -1,18 +1,18 @@
 ---
-title: Winter 2024
+title: Spring 2024
 ---
 
 
-The Seminar runs on *Tuesdays from 15:00 to 16:00* at **STRAND BLDG S4.29**
+The Seminar runs on *Tuesdays* at **STRAND BLDG S4.29**. This term, some talks will run from *15:00 to 16:00*, and others will be in two parts -- an introductory talk from *15:00 to 15:40* and a research talk from *15:45 to 16:30*.
 
 
 
 ----------------------------------------------------------------
 <br />
 
-16 January, 15:00-16:00, STRAND BLDG S4.29
+23 April, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
-Speaker:&nbsp; No Seminar
+Speaker:&nbsp; **Dan Kaplan** (University of Hasselt)
 
 Title:&nbsp;
 
@@ -21,126 +21,49 @@ Abstract:&nbsp;
 ---------------------------------------------------------
 <br />
 
-23 January, 15:00-16:00, STRAND BLDG S4.29
+30 April, 15:00-16:00, STRAND BLDG S4.29
 
-Speaker:&nbsp; **Cheuk Yu Mak** (University of Southampton)
+Speaker:&nbsp; **Ulrike Tillman** (Oxford)
 
-Title:&nbsp; Loop group action on symplectic cohomology
+Title:&nbsp; Homology stability for generalised Hurwitz spaces and asymptotic monopoles
 
-Abstract:&nbsp; For a compact Lie group G, its massless Coulomb branch algebra is the G-equivariant Borel-Moore homology of its based loop space. This algebra is the same as the algebra of regular functions on the BFM space. In this talk, we will explain how this algebra acts on the equivariant symplectic cohomology of Hamiltonian G-manifolds when the symplectic manifolds are open and convex. This is a generalization of the closed case where symplectic cohomology is replaced with quantum cohomology. Following Teleman, we also explain how it relates to the Coulomb branch algebra of cotangent-type representations. This is joint work with Eduardo González and Dan Pomerleano.
+Abstract:&nbsp; Configuration spaces have played an important role in mathematics and its applications. In particular, the question of how their topology changes as the cardinality of the underlying configuration changes has been studied for some fifty years and has attracted renewed attention in the last decade. 
 
----------------------------------------------------------
-<br />
-
-30 January, 15:00-16:00, STRAND BLDG S4.29
-
-Speaker:&nbsp; **Andrew Dancer** (University of Oxford)
-
-Title:&nbsp; Implosion, contraction and nonreductive quotients
-
-Abstract:&nbsp; We describe the constructions of implosion and contraction for
-complex-symplectic or hyperkahler manifolds. Implosions are examples
-of nonreductive quotients in geometric invariant theory. We can
-interpret both constructions in terms of a generalisation of the
-Moore-Tachikawa category that was introduced in physics.
+While classically additional information is associated "locally" to the points of the configuration, there are interesting examples when this additional information is "non-local". With Martin Palmer we have studied homology stability in some of these cases, including Hurwitz space and moduli spaces of asymptotic monopoles.
 
 ---------------------------------------------------------
 <br />
 
-6 February, 15:00-16:00, STRAND BLDG S4.29
+7 May, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
-Speaker:&nbsp; **Liana Heuberger** (University of Bath)
+Speaker:&nbsp; **Ilaria Di Dedda** (King's College London)
 
-Title:&nbsp; Applications of Laurent inversion to K-moduli
+Title:&nbsp;
 
-Abstract:&nbsp; I will discuss how to use Laurent inversion, a technique coming from mirror symmetry which constructs toric embeddings, to study the local structure of the K-moduli space of a K-polystable toric Fano variety. More specifically, starting from a toric Fano 3-fold X of anticanonical volume 28 which smooths to a Fano threefold of Picard rank 4, we combine a local study of its singularities with the global deformation provided by Laurent inversion, and conclude that the K-moduli space is rational around X. This is joint work with Andrea Petracci.
-
----------------------------------------------------------
-<br />
-
-13 February, 15:00-16:00, STRAND BLDG S4.29
-
-Speaker:&nbsp; **Vlad Markovic** (University of Oxford)
-
-Title:&nbsp; Distribution of random quasifuchsian surfaces in 3-manifolds
-
-Abstract:&nbsp; I will discuss the distribution of geometrically and topologically nearly geodesic random surfaces in a closed hyperbolic 3-manifold $M$, and describe  the resulting $\mathrm{PSL}(2,\mathbb{R})$ invariant measures on the Grassmann bundle of $M$. (Joint work with J. Kahn and I. Smilga.)
+Abstract:&nbsp;
 
 ---------------------------------------------------------
 <br />
 
-20 February, 15:00-16:00, STRAND BLDG S4.29
+21 May, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
-Speaker:&nbsp; **Clement Dupont** (Université de Montpellier)
+Speaker:&nbsp; **Anna Felikson** (Durham University)
 
-Title:&nbsp; How to compute divergent integrals using logarithmic geometry
+Title:&nbsp;
 
-Abstract:&nbsp; One is sometimes faced with the task of assigning finite values to divergent integrals in a consistent and meaningful way. Since differential forms and integrals play a central role in geometry, how to think about divergent integrals in geometric terms? The goal of this talk will be to answer this question in the case of logarithmic divergences (such as the integral of 1/x near x=0).
-The idea is to pass from manifolds to slightly more general objects called manifolds with log corners. They are the differential geometer’s version of logarithmic varieties in algebraic geometry. A key ingredient of our construction is a new notion of morphism between manifolds with log corners (or logarithmic varieties) which is more flexible than the obvious one and faithfully records the geometric information needed to regularize divergent integrals.
-This is joint work with Erik Panzer and Brent Pym.
+Abstract:&nbsp;
 
 ---------------------------------------------------------
-
 <br />
 
-27 February, 15:00-16:00, STRAND BLDG S4.29
 
-Speaker:&nbsp; **Richard Webb** (The University of Manchester)
+28 May, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
-Title:&nbsp; An equator theorem for the 2-sphere
+Speaker:&nbsp; **Nick Lindsay** (University of Cologne)
 
-Abstract:&nbsp; In this talk, we will focus on the group of Hamiltonian diffeomorphisms (and area-preserving homeomorphisms) of the 2-sphere. A tremendous amount of progress has been made in the study of these groups in the last few years, but many problems remain, including the Equator Conjecture. An equator on the 2-sphere is a simple closed curve whose complementary components have equal area. The Equator Conjecture predicts that for any positive K, there are pairs of equators such that any Hamiltonian diffeomorphism sending one equator to the other must have Hofer norm larger than K. We will prove an alternative conjecture, by replacing "Hofer norm" with "quantitative fragmentation norm". To prove this, we construct new quasimorphisms defined on all area-preserving homeomorphisms on the 2-sphere, coming from methods inspired from mapping class groups and geometric group theory. Joint work with Yongsheng Jia.
+Title:&nbsp;
 
----------------------------------------------------------
+Abstract:&nbsp;
 
-<br />
-
-5 March, **11:00-12:00**, STRAND BLDG **S3.31***  
-
-***Note non-standard time and location**
-
-Speaker:&nbsp; **Dario Beraldo** (University College London)
-
-Title:&nbsp; On the geometric Langlands conjecture
-
-Abstract:&nbsp; I will outline the recent proof of the (global, unramified) geometric Langlands conjecture, obtained in collaboration with Arinkin, Chen, Gaitsgory, Faergeman, Lin, Raskin and Rozenblyum.
-
-The talk is aimed at non-specialists: in particular, I will highlight some key geometric ingredients that might be useful in other situations.
-
----------------------------------------------------------
-
-<br />
-
-12 March, 15:00-16:00, STRAND BLDG S4.29
-
-Speaker:&nbsp; **Marta Mazzocco** (University of Birmingham)
-
-Title:&nbsp; Triangulations, cluster varieties and GDAHA
-
-Abstract:&nbsp; In this talk, I will explain how to apply the Fock-Goncharov construction to the representation theory of a class of algebras introduced by Etingof, Oblomkov and Rains.
-
----------------------------------------------------------
-
-<br />
-
-19 March, 15:00-16:00, STRAND BLDG S4.29
-
-Speaker:&nbsp; **Marie-Amélie Lawn** (Imperial College London)
-
-Title:&nbsp; Generalized spin structures and homogeneous spaces
-
-Abstract:&nbsp; Spin geometry is a useful tool to describe geometric properties of manifolds. For instance, it is well-known that a manifold admitting parallel spinors has to be Ricci flat. Another example is Seiberg-Witten theory which relies on the existence of a notion of spin structure on 4-manifolds.  However not every manifold admits a classical spin structure. In this talk we generalise this notion, so that every manifold admits a generalised spin structure. We look at obstructions for such structure and study their G-equivariance in the case of homogeneous spaces G/H. We will discuss the spheres as an example.
-
----------------------------------------------------------
-
-<br />
-
-26 March, 15:00-16:00, STRAND BLDG S4.29
-
-Speaker:&nbsp; **Michael Wemyss** (University of Glasgow)
-
-Title:&nbsp; Crepant Curves: Categories, Classification and Contractibility.
-
-Abstract:&nbsp; Motivated by various contraction conjectures, categorical statements, and classification theorems, and also by the seemingly insatiable urge to rewrite all of mathematics using only the letter C, I will describe the full A_infty structure associated to a general (-3,1)-curve inside a smooth CY 3-fold.  This sounds complicated, but it turns out to be combinatorial and easy.  Of course, most of the talk will be about background, and the motivation for considering these questions, including the analytic classification of 3-fold flops using noncommutative data.  This is all joint work with Gavin Brown.
 
 ---------------------------------------------------------
