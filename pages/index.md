@@ -23,7 +23,7 @@ Abstract:&nbsp;
 
 30 April, 15:00-16:00, STRAND BLDG S4.29
 
-Speaker:&nbsp; **Ulrike Tillman** (University of Oxford)
+Speaker:&nbsp; **Ulrike Tillmann** (University of Oxford)
 
 Title:&nbsp; Homology stability for generalised Hurwitz spaces and asymptotic monopoles
 
