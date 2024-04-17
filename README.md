@@ -1,7 +1,7 @@
 # KCL Geometry Seminar
 
 This is the repository for the Geometry Seminar at King's College London.
-The organizers are Jordan Hofmann, Tim Magee, Calum Spicer, and Mehdi Yazdi.
+The organizers are Tim Magee, Calum Spicer, and Mehdi Yazdi.
 
 ## Edit
 
