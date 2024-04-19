@@ -14,9 +14,11 @@ The Seminar runs on *Tuesdays* at **STRAND BLDG S4.29**. This term, some talks w
 
 Speaker:&nbsp; **Dan Kaplan** (University of Hasselt)
 
-Title:&nbsp;
+Title:&nbsp; Quiver varieties for the working geometer
 
-Abstract:&nbsp;
+Abstract:&nbsp; This talk is divided into two related, yet self-contained sections. The first section is an elementary introduction to (Nakajima) quiver varieties, beginning with representations of quivers and emphasizing small examples. The second section shifts gears to symplectic resolutions of singularities, including the minimal resolutions of du Val singularities and the Springer resolution of the nilpotent cone of a Lie algebra.
+
+The sections unite as we construct symplectic resolutions for quiver varieties by varying a stability parameter. In joint work with Travis Schedler, we leverage these symplectic resolutions to build resolutions for spaces that are (analytically) locally quiver varieties. The key idea here is to choose local resolutions at the most singular points and then demonstrate that certain compatible, monodromy-free choices extend and glue to a global resolution.
 
 ---------------------------------------------------------
 <br />
