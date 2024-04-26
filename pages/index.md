@@ -40,9 +40,9 @@ While classically additional information is associated "locally" to the points o
 
 Speaker:&nbsp; **Ilaria Di Dedda** (King's College London)
 
-Title:&nbsp;
+Title:&nbsp; Type A symplectic Auslander correspondence
 
-Abstract:&nbsp;
+Abstract:&nbsp; In this talk, we will study invariants of complex isolated hypersurface singularities. In the first half I will review the basics of Floer theory, and I will describe Fukaya-Seidel categories, a powerful and geometric derived invariant of singularities. In the second half, I will describe invariants of a special family of isolated singularities, whose Fukaya-Seidel categories play an important role in bordered Heegaard Floer theory. Motivated by representation theory, I will relate these singularities to abstract objects associated to algebras of type A (named after the quiver of Dynkin type A). I will introduce “type A symplectic Auslander correspondence”, a purely geometrical construction which realises a notable result in representation theory. Most of the talk will be example-based.
 
 ---------------------------------------------------------
 <br />
