@@ -52,9 +52,11 @@ Abstract:&nbsp; In this talk, we will study invariants of complex isolated hyper
 
 Speaker:&nbsp; **Eloise Hamilton** (University of Cambridge)
 
-Title:&nbsp;
+Title:&nbsp; Geometric Invariant Theory and moduli of representations of quivers [Part 1]
+Non-Reductive Geometric Invariant Theory and moduli of representations of quivers with multiplicities [Part 2]
 
-Abstract:&nbsp;
+
+Abstract:&nbsp; Geometric Invariant Theory (GIT) is a powerful theory for constructing quotients in algebraic geometry. An important classical application of GIT is to the construction of moduli spaces of representations of quivers. I will explain the basics of GIT and this particular application in the first part of the talk. In the second part of the talk I will turn to a natural generalisation of representations of quivers, called representations of quivers with multiplicities. These are representations of quivers in the category of modules over a truncated polynomial ring, instead of in the category of vector spaces. Unfortunately, moduli spaces of such objects cannot be constructed using GIT because the group involved is not reductive, yet reductivity plays a key role in GIT. I will explain recent work, joint with Victoria Hoskins and Joshua Jackson, in which we extend existing work on a non-reductive version of GIT to enable the construction of moduli spaces for representations of quivers with multiplicities.
 
 ---------------------------------------------------------
 
@@ -64,9 +66,12 @@ Abstract:&nbsp;
 
 Speaker:&nbsp; **Anna Felikson** (Durham University)
 
-Title:&nbsp;
+Title:&nbsp; Polytopal realizations of non-crystallographic associahedra
 
-Abstract:&nbsp;
+Abstract:&nbsp; An associahedron is a polytope arising from combinatorics of Catalan-type objects (for example, from a collection of all triangulations of a given polygon). Fomin and Zelevinsky found a way to construct the same combinatorial structure from considering the Coxeter group of type A_n. This allowed them to define a generalized associahedron for every finite reflection group. For generalized associahedra arising from crystallographic reflection groups, it was also shown that they can be realized as polytopes. We use the folding technique to construct polytopal realisations of generalized associahedra for all non-simply-laced root systems, including non-crystallographic ones. This is a joint work with Pavel Tumarkin and Emine Yildrim.
+
+In the first half of the talk, I will sketch the history of the associahedron and introduce generalised associahedra, then in the second half we will discuss how to produce the associahedra in the non-crystallographic case. The talk will not require any special background.
+
 
 ---------------------------------------------------------
 <br />
