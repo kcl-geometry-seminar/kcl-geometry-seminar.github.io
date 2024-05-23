@@ -80,9 +80,18 @@ In the first half of the talk, I will sketch the history of the associahedron an
 
 Speaker:&nbsp; **Nick Lindsay** (University of Cologne)
 
-Title:&nbsp;
+Title:&nbsp; On a symplectic generalization of a Hirzebruch problem.
 
-Abstract:&nbsp;
+Abstract:&nbsp; The talk is based on a recent joint preprint with Leonor 
+ Godinho and Silvia Sabatini arxiv number 2403.00949. The main result 
+ is a classification of closed, 8-dimensional symplectic manifolds 
+ having a Hamiltonian T^2-action with exactly 6 fixed points. In the 
+ first part of the talk I will give a brief introduction to Hamiltonian 
+ torus actions with focus on material relevant for the paper. In the 
+ second part, I will begin by discussing motivation for the main result 
+ which comes from algebraic geometry. I will then discuss the main 
+ ideas of the proof.
+
 
 
 ---------------------------------------------------------
