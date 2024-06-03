@@ -101,9 +101,14 @@ Abstract:&nbsp; The talk is based on a recent joint preprint with Leonor
 
 Speaker:&nbsp; **Filippo Baroni** (University of Oxford)
 
-Title:&nbsp;
+Title:&nbsp; Using the curve graph and train tracks to classify surface homeomorphisms
 
-Abstract:&nbsp;
+Abstract:&nbsp; The Nielsen-Thurston classification theorem states that there are three kinds of surface homeomorphisms up to homotopy: periodic, reducible, and pseudo-Anosov.
+
+In the introductory part of the talk, we will investigate the differences between these three categories, focusing on the wide array of geometric, topological, and dynamical properties that set pseudo-Anosov mapping classes apart from the rest. To this end, we will also introduce the curve graph, a combinatorial object associated with a surface, and describe how the dynamics of the action of a mapping class on the curve graph can be used to detect pseudo-Anosovness.
+
+In the second part of the talk, we will see how to turn this characterisation into an algorithm for deciding whether a given mapping class is pseudo-Anosov. The key tools will be the theory of train tracks and their connection to the curve graph developed by Masur and Minsky.
+
 
 
 ---------------------------------------------------------
