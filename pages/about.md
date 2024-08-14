@@ -11,7 +11,7 @@ The organizers are **Tim Magee**, **Calum Spicer**, **Mehdi Yazdi**.
 
 * If you want to be added to the mailing list click in the following:
 
-{% include button.html text="Subscribe" link="https://mailman.kcl.ac.uk/mailman/listinfo/kcl-geometry-seminar" color="success" centered = "true" %}
+{% include button.html text="Subscribe" link="[https://mailman.kcl.ac.uk/mailman/listinfo/kcl-geometry-seminar](https://mailman.kcl.ac.uk/mailman3/lists/kcl-geometry-seminar.mailman.kcl.ac.uk/)" color="success" centered = "true" %}
 
 * After the talk we have a coffee break in the common room S5.21  Strand Building.
 
