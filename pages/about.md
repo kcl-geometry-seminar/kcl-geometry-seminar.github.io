@@ -4,7 +4,7 @@ nav: About
 nav_order: 1
 ---
 
-The organizers are **Tim Magee**, **Calum Spicer**, **Mehdi Yazdi**.
+The organizers are **Calum Spicer**, **Mehdi Yazdi**.
 
 ----------------------------------------------------------------
 <br />
