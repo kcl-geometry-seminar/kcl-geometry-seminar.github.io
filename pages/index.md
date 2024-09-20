@@ -34,7 +34,7 @@ Abstract:&nbsp;
 
 8 October, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
-Speaker:&nbsp; **TBA** (TBD)
+Speaker:&nbsp; **Bruno Klingler** (Humboldt University of Berlin)
 
 Title:&nbsp; 
 
@@ -57,7 +57,7 @@ Abstract:&nbsp;
 
 22 October, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
-Speaker:&nbsp; **TBA** (TBD)
+Speaker:&nbsp; **Laura Wakelin** (King's College London)
 
 Title:&nbsp; 
 
@@ -69,7 +69,7 @@ Abstract:&nbsp;
 
 29 October, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
-Speaker:&nbsp; **TBA** (TBD)
+Speaker:&nbsp; **Tomasso Cremaschi** (Trinity College Dublin)
 
 Title:&nbsp; 
 
@@ -81,7 +81,7 @@ Abstract:&nbsp;
 
 5 November, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
-Speaker:&nbsp; **TBA** (TBD)
+Speaker:&nbsp; **Francesco Lin** (Columbia University)
 
 Title:&nbsp; 
 
@@ -126,7 +126,7 @@ Abstract:&nbsp;
 <br />
 3 December, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
-Speaker:&nbsp; **TBA** (TBD)
+Speaker:&nbsp; **Rachael Boyd** (University of Glasgow)
 
 Title:&nbsp; 
 
