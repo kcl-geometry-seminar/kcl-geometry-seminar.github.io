@@ -14,9 +14,9 @@ The Seminar runs on *Tuesdays* at **STRAND BLDG S4.29**. This term, some talks w
 
 Speaker:&nbsp; **Stephen Lynch** (King's College London)
 
-Title:&nbsp; 
+Title:&nbsp; Singularities in mean curvature flow
 
-Abstract:&nbsp; 
+Abstract:&nbsp; Mean curvature flow moves a hypersurface in Euclidean space with velocity equal to its mean curvature vector. This evolution is described by a nonlinear weakly parabolic system. Variationally, it is a formal gradient flow for the volume functional. Solutions to mean curvature flow exhibit a huge variety of different kinds of singularities. For solutions which move monotonically (have nowhere vanishing mean curvature), however, these singularities exhibit enough structure so that they might eventually be completely classified. We will discuss the now essentially complete picture for surfaces in $\mathbb{R}^3$ developed over the last 40 years, and then explore the dramatically more complicated setting of 3-dimensional hypersurfaces in $\mathbb{R}^4$. 
 
 ---------------------------------------------------------
 <br />
@@ -59,9 +59,9 @@ Abstract:&nbsp;
 
 Speaker:&nbsp; **Laura Wakelin** (King's College London)
 
-Title:&nbsp; 
+Title:&nbsp; Finding characterising slopes for all knots
 
-Abstract:&nbsp; 
+Abstract:&nbsp; A slope $p/q$ is characterising for a knot $K$ if the oriented homeomorphism type of the 3-manifold obtained by performing Dehn surgery of slope $p/q$ on $K$ uniquely determines the knot $K$. For any knot $K$, there exists a bound $C(K)$ such that any slope $p/q$ with $|q|\geq C(K)$ is characterising for $K$. This bound has previously been constructed for certain classes of knots, including torus knots, hyperbolic knots and composite knots. In this talk, I will give an overview of joint work with Patricia Sorya in which we complete this realisation problem for all remaining knots.
 
 ---------------------------------------------------------
 
