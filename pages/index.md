@@ -61,7 +61,7 @@ Speaker:&nbsp; **Laura Wakelin** (King's College London)
 
 Title:&nbsp; Finding characterising slopes for all knots
 
-Abstract:&nbsp; A slope $p/q$ is characterising for a knot $K$ if the oriented homeomorphism type of the 3-manifold obtained by performing Dehn surgery of slope $p/q$ on $K$ uniquely determines the knot $K$. For any knot $K$, there exists a bound $C(K)$ such that any slope $p/q$ with $|q| > C(K)$ is characterising for $K$. This bound has previously been constructed for certain classes of knots, including torus knots, hyperbolic knots and composite knots. In this talk, I will give an overview of joint work with Patricia Sorya in which we complete this realisation problem for all remaining knots.
+Abstract:&nbsp; A slope $p/q$ is characterising for a knot $K$ if the oriented homeomorphism type of the 3-manifold obtained by performing Dehn surgery of slope $p/q$ on $K$ uniquely determines the knot $K$. For any knot $K$, there exists a bound $C(K)$ such that any slope $p/q$ with $|q| \geq C(K)$ is characterising for $K$. This bound has previously been constructed for certain classes of knots, including torus knots, hyperbolic knots and composite knots. In this talk, I will give an overview of joint work with Patricia Sorya in which we complete this realisation problem for all remaining knots.
 
 ---------------------------------------------------------
 
