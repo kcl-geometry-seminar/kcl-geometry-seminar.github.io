@@ -25,9 +25,11 @@ Abstract:&nbsp; Mean curvature flow moves a hypersurface in Euclidean space with
 
 Speaker:&nbsp; **Michael McQuillan** (Rome Tor Vergata)
 
-Title:&nbsp; 
+Title:&nbsp; Hyperbolicity of algebraic surfaces.
 
-Abstract:&nbsp; 
+Abstract:&nbsp; Unlike Riemann surfaces or 3 manifolds, a constant Ricci curvature metric on an algebraic surface is, generically, a rather crude estimate of its geometry. Indeed, from the point of view of an isoperimetric inequality, it is a property of the volume of embedded balls rather than the area of
+(embedded) discs. The goal of the talk will be to ouline a programme for a complete understanding of an area vs. length inequality for algebraic surfaces. The essential technical tool is the adaption of the techniques introduced by Mori in his study of minimal models of algebraic varieties to the more general context of solutions of differntial equations on an algebraic variety. However, no knowledge of this theory will be supposed, and, indeed, I'll just aim to explain why this is the natural way to proceed.
+
 
 ---------------------------------------------------------
 <br />
