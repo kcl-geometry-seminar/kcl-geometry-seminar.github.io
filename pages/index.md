@@ -38,9 +38,9 @@ Abstract:&nbsp; Unlike Riemann surfaces or 3 manifolds, a constant Ricci curvatu
 
 Speaker:&nbsp; **Bruno Klingler** (Humboldt University of Berlin)
 
-Title:&nbsp; 
+Title:&nbsp; Recent progress on Hodge loci
 
-Abstract:&nbsp; 
+Abstract:&nbsp; Given a quasi projective family S of complex algebraic varieties, its Hodge locus is the locus of points of S where the corresponding fiber admits exceptional Hodge classes (conjecturally: exceptional algebraic cycles). In this talk I will survey the many recent advances in our understanding of such loci, both geometrically and arithmetically, as well as the remaining open questions.
 
 ---------------------------------------------------------
 <br />
