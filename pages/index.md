@@ -85,9 +85,17 @@ Abstract:&nbsp;
 
 Speaker:&nbsp; **Francesco Lin** (Columbia University)
 
-Title:&nbsp; 
+Title:&nbsp; Divergence-free framings of three-manifolds via eigenspinors
 
-Abstract:&nbsp; 
+
+Abstract:&nbsp; Gromov used convex integration to prove that any closed 
+orientable three-manifold equipped with a volume form admits three 
+divergence-free vector fields which are linearly independent at every 
+point. We provide an alternative proof of this using geometric 
+properties of eigenspinors in three dimensions. In fact, our proof 
+shows that for any Riemannian metric, one can find three 
+divergence-free vector fields such that at every point they are 
+orthogonal and have the same non-zero length.
 
 
 
