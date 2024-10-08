@@ -49,9 +49,9 @@ Abstract:&nbsp; Given a quasi projective family S of complex algebraic varieties
 
 Speaker:&nbsp; **Sophie Morier-Genoud** (Université Reims Champagne Ardenne)
 
-Title:&nbsp; 
+Title:&nbsp; From deformations of the Farey graph to faithfulness of Burau representations
 
-Abstract:&nbsp; 
+Abstract:&nbsp; The talk will start from the elementary fact that positive rational numbers can be expanded as finite continued fractions with positive integer coefficients. The positive integer coefficients have combinatorial interpretations in the sense that ‘’they count something’’.  I will present  combinatorial interpretations based on the Farey graph. Introducing a formal parameter q, I will then make a deformations of the objects and refine the countings. This will bring notions of q-rationals, q-continued fractions, q-SL(2,Z).  I will explain the constructions and give the main properties of all these q-analogs. Finally, I will connect this theory to the Burau representation of the braid group B3, and give a partial answer to the question of faithfulness of the complex specialisations of this representation.
 
 ---------------------------------------------------------
 
