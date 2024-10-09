@@ -71,7 +71,7 @@ Abstract:&nbsp; A slope $p/q$ is characterising for a knot $K$ if the oriented h
 
 29 October, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
-Speaker:&nbsp; **Tomasso Cremaschi** (Trinity College Dublin)
+Speaker:&nbsp; **Tommaso Cremaschi** (Trinity College Dublin)
 
 Title:&nbsp; 
 
