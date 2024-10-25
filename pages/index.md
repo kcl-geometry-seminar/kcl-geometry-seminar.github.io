@@ -73,9 +73,9 @@ Abstract:&nbsp; A slope $p/q$ is characterising for a knot $K$ if the oriented h
 
 Speaker:&nbsp; **Tommaso Cremaschi** (Trinity College Dublin)
 
-Title:&nbsp; 
+Title:&nbsp; Big and small surfaces and Nielsen-Thurston Classification
 
-Abstract:&nbsp; 
+Abstract:&nbsp; We will give a short overview of the Nielsen-Thurston Classification problem (classifying the homeomorphism type of surfaces) on finite-type surfaces and then move to infinite-type surface mentioning what is known and pointing out some difficulties. We will then discuss how to approximate, in the compact-open topology, a general self-homeomorphism of an infinite-type surface (joint with Y.Chandran) and potential definitions of pseudo-anosov mapping classes in the infinite-type setting (joint with F.Valdez).
 
 
 ---------------------------------------------------------
