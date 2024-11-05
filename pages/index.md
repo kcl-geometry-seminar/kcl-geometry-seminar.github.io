@@ -81,7 +81,7 @@ Abstract:&nbsp; We will give a short overview of the Nielsen-Thurston Classifica
 ---------------------------------------------------------
 <br />
 
-5 November, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
+5 November, 15:00-16:00, STRAND BLDG S4.29
 
 Speaker:&nbsp; **Francesco Lin** (Columbia University)
 
