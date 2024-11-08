@@ -106,9 +106,10 @@ orthogonal and have the same non-zero length.
 
 Speaker:&nbsp; **Inder Kaur** (Glasgow)
 
-Title:&nbsp; 
+Title:&nbsp; A Lefschetz (1, 1) theorem for singular varieties
 
-Abstract:&nbsp; 
+Abstract:&nbsp; The Lefschetz (1, 1) theorem is a classical result that tells us that for any smooth projective variety, a rational (1, 1) Hodge class comes from a algebraic cycle of codimension 1.
+In 1994, Barbieri-Viale and Srinivas gave a counter-example to the obvious generalization of this result to singular varieties. Inspired by Totaro, in this talk, I will give a modification of the statement of Lefschetz (1, 1) and show that it is satisfied by several singular varieties such as those with ADE-singularities and rational singularities. In particular, this Lefschetz (1,1) statement is satisfied by the varieties considered by Barbieri-Viale and Srinivas. This is joint work with A. Dan.
 
 
 ---------------------------------------------------------
