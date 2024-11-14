@@ -118,9 +118,12 @@ In 1994, Barbieri-Viale and Srinivas gave a counter-example to the obvious gener
 
 Speaker:&nbsp; **Alastair Craw** (Bath)
 
-Title:&nbsp; 
+Title:&nbsp; Hilbert schemes of points on canonical surfaces, parts I and II
 
-Abstract:&nbsp; 
+Abstract:&nbsp; Part I will be a gentle introduction to the Hilbert scheme of points in the plane, a moduli space that plays an important role in both algebraic geometry and geometric representation theory.  I’ll discuss the notion of “a point” in algebraic geometry, and I’ll introduce a geometric invariant theory quotient construction of the Hilbert scheme of points in the plane.  Part I will be a slides talk, and is intended to be accessible.
+
+Part II will introduce recent joint work with Ryo Yamagishi in which we generalise well-known theorems of Fogarty (1968) and Beauville (1983) which show that the Hilbert scheme of points on a non-singular surface (admitting a symplectic form) is a non-singular variety of dimension 2n (admitting a symplectic form). The main result establishes analogous results for surfaces with canonical singularities (respectively, symplectic surface singularities). This part will be a board talk, and as such, is intended to be incomprehensible.
+
 
 ---------------------------------------------------------
 <br />
