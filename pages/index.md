@@ -131,9 +131,9 @@ Part II will introduce recent joint work with Ryo Yamagishi in which we generali
 
 Speaker:&nbsp; **Ben Sharp** (Leeds)
 
-Title:&nbsp; 
+Title:&nbsp; Index estimates for constant mean curvature surfaces in 3-manifolds 
 
-Abstract:&nbsp; 
+Abstract:&nbsp; In the first part of this talk we will give an introduction to CMC surfaces, define  “index”, and discuss by exhibiting examples. Roughly speaking, CMC surfaces are critical with respect to area as long as we restrict to competitor surfaces which 'enclose the same volume'. The index of a CMC surface is the number of ways we can locally deform it to reduce its area whilst enclosing the same amount of volume. In the second half of the talk we will show that the index of a CMC surface is bounded linearly from above in terms of its genus and a Willmore-type energy. When the mean curvature is of order 1 this Willmore-type energy is the area of the surface. 
 
 
 ---------------------------------------------------------
