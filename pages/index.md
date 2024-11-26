@@ -142,9 +142,9 @@ Abstract:&nbsp; In the first part of this talk we will give an introduction to C
 
 Speaker:&nbsp; **Rachael Boyd** (University of Glasgow)
 
-Title:&nbsp; 
+Title:&nbsp; Diffeomorphisms of reducible 3-manifolds
 
-Abstract:&nbsp; 
+Abstract:&nbsp; I will talk about joint work with Corey Bregman and Jan Steinebrunner, in which we study the moduli space B Diff(M), for M a compact, connected, reducible 3-manifold. We prove that when M is orientable and has non-empty boundary, B Diff(M rel ∂M) has the homotopy type of a finite CW-complex. This was conjectured by Kontsevich and previously proved in the case where M is irreducible by Hatcher and McCullough.
 
 ---------------------------------------------------------
 <br />
