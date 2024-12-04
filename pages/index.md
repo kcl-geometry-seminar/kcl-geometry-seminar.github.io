@@ -148,10 +148,7 @@ Abstract:&nbsp; I will talk about joint work with Corey Bregman and Jan Steinebr
 
 ---------------------------------------------------------
 <br />
-10 December, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
+10 December, No Seminar
 
-Speaker:&nbsp; **TBA** (TBD)
-
-Title:&nbsp; 
-
-Abstract:&nbsp; 
+There will be a special semianr on Information Geometry on this day at 3 pm. Please see the webpage below for the details:
+https://kings-math-data-science.weebly.com/#infgeo
