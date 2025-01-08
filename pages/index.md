@@ -12,7 +12,7 @@ The Seminar runs on *Tuesdays* at **STRAND BLDG S4.29**. This term, some talks w
 
 21 January, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
-Speaker:&nbsp; **TBA**
+Speaker:&nbsp; **Konni Rietsch** (King's College London)
 
 Title:&nbsp; TBA
 
@@ -23,11 +23,13 @@ Abstract:&nbsp; TBA
 
 28 January, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
-Speaker:&nbsp; **TBA**
+Speaker:&nbsp; **Jehoon Park** (Seoul National Univeristy)
 
-Title:&nbsp; TBA
+Title:&nbsp; Flat F-manifolds for Calabi-Yau smooth projective complete intersection varieties
+ 
 
-Abstract:&nbsp; TBA 
+
+Abstract:&nbsp; In this talk, I will explain how to construct formal flat F-manifold structures on the primitive cohomology H of a Calabi-Yau smooth projective complete intersection variety X. My strategy is to convert an analysis on H to study on non-isolated hypersurface singularities using the Cayley trick; we associate a dGBV (differential Gerstenhaber-Batalin-Vilkovisky) algebra A to H, and find a special solution to Maurer-Cartan equation in order to construct formal flat F-manifolds.
 
 ---------------------------------------------------------
 <br />
