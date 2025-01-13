@@ -10,13 +10,13 @@ The Seminar runs on *Tuesdays* at **STRAND BLDG S4.29**. This term, some talks w
 ----------------------------------------------------------------
 <br />
 
-21 January, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
+21 January, 15:00-16:00, STRAND BLDG S4.29
 
 Speaker:&nbsp; **Konni Rietsch** (King's College London)
 
-Title:&nbsp; TBA
+Title:&nbsp; Generalising Euler’s Tonnetz 
 
-Abstract:&nbsp; TBA 
+Abstract:&nbsp; Euler in 1739 wrote about a way to visualise harmonic relationships in music thus creating what is now called `Euler’s Tonnetz’. This talk is about Euler’s tonnetz from a modern point of view, and how to generalise it. Our ‘Tonnetze’ will take place on triangulated surfaces. We will, in particular, consider a set of examples that live on triangulations of tori and are related to crystallographic reflection groups, and a diatonic example related to a famous finite geometry.
 
 ---------------------------------------------------------
 <br />
