@@ -113,4 +113,12 @@ Abstract:&nbsp; TBA
 ---------------------------------------------------------
 <br />
 
+25 March, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
+
+Speaker:&nbsp; **Andras Juhasz** (University of Oxford)
+
+Title:&nbsp; TBA
+
+Abstract:&nbsp; TBA 
+
 
