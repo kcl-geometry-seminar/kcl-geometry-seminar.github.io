@@ -12,7 +12,7 @@ The Seminar runs on *Tuesdays* at **STRAND BLDG S4.29**. This term, some talks w
 
 21 January, 15:00-16:00, STRAND BLDG S4.29
 
-Speaker:&nbsp; **Konni Rietsch** (King's College London)
+Speaker:&nbsp; **Konstanze Rietsch** (King's College London)
 
 Title:&nbsp; Generalising Euler’s Tonnetz 
 
