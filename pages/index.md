@@ -60,7 +60,7 @@ Abstract:&nbsp; TBA
 
 18 February, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
-Speaker:&nbsp; **TBA**
+Speaker:&nbsp; **Henry Wilton** (University of Cambridge)
 
 Title:&nbsp; TBA
 
@@ -71,7 +71,7 @@ Abstract:&nbsp; TBA
 
 25 February, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
-Speaker:&nbsp; **TBA**
+Speaker:&nbsp; **Samuel Johnston** (Imperial College London)
 
 Title:&nbsp; TBA
 
@@ -104,7 +104,7 @@ Abstract:&nbsp; TBA
 
 18 March, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
-Speaker:&nbsp; **TBA**
+Speaker:&nbsp; **Monika Kudlinska** (University of Cambridge)
 
 Title:&nbsp; TBA
 
