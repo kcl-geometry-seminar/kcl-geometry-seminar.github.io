@@ -82,7 +82,7 @@ Abstract:&nbsp; TBA
 
 4 March, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
-Speaker:&nbsp; **TBA**
+Speaker:&nbsp; **Ximena Fernández** (City St George’s, University of London)
 
 Title:&nbsp; TBA
 
