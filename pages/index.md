@@ -23,7 +23,7 @@ Abstract:&nbsp; Euler in 1739 wrote about a way to visualise harmonic relationsh
 
 28 January, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
-Speaker:&nbsp; **Jehoon Park** (Seoul National Univeristy)
+Speaker:&nbsp; **Jeehoon Park** (Seoul National Univeristy)
 
 Title:&nbsp; Flat F-manifolds for Calabi-Yau smooth projective complete intersection varieties
  
