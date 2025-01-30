@@ -62,9 +62,9 @@ Abstract:&nbsp; TBA
 
 Speaker:&nbsp; **Henry Wilton** (University of Cambridge)
 
-Title:&nbsp; TBA
+Title:&nbsp; On the congruence subgroup property for mapping class groups of surfaces 
 
-Abstract:&nbsp; TBA 
+Abstract:&nbsp; I will relate two notorious open questions in low-dimensional topology.  The first asks whether every hyperbolic group is residually finite. The second, the  congruence subgroup property, relates the finite-index subgroups of mapping class groups of surfaces to the topology of the underlying surface. I will explain why, if every hyperbolic group is residually finite, then mapping class groups enjoy the congruence subgroup property. If there’s time, I may give some further applications to the question of whether hyperbolic 3-manifolds are determined by the finite quotients of their fundamental groups.
 
 ---------------------------------------------------------
 <br />
