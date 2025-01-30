@@ -39,9 +39,14 @@ Abstract:&nbsp; In this talk, I will explain how to construct formal flat F-mani
 
 Speaker:&nbsp; **Yanki Lekili** (Imperial College London)
 
-Title:&nbsp; TBA
+Title:&nbsp; Deformations of cyclic quotient surface singularities via mirror symmetry
 
-Abstract:&nbsp; TBA 
+
+
+
+Abstract:&nbsp; Let X_0 be a rational surface with a cyclic quotient singularity (1,a)/r.  Kawamata constructed a remarkable vector bundle K_0 on X_0 such that the finite-dimensional algebra End(K_0), called the Kalck-Karmazyn algebra, "absorbs'' the singularity of X_0 in a categorical sense.  If we deform over an irreducible component of the versal deformation space of X_0 (as described by Kollár and Shepherd-Barron), the bundle K_0 also deforms to a vector bundle K. These results were established using abstract methods of birational geometry, making the explicit computation of the family of algebras challenging. We will utilise homological mirror symmetry to compute End(K) explicitly. In the case of a Q-Gorenstein smoothing, this algebra End(K) is a matrix order deforming the Kalck-Karmazyn algebra, and "absorbs" the singularity of the corresponding terminal 3-fold singularity. I will also discuss a conjecture describing irreducible components of the deformation space of X_0 in terms of the finite-dimensional algebra End(K_0).
+
+This is based on our joint work (on arXiv) with Jenia Tevelev.
 
 ---------------------------------------------------------
 <br />
