@@ -56,9 +56,13 @@ This is based on our joint work (on arXiv) with Jenia Tevelev.
 
 Speaker:&nbsp; **Tyler Kelly** (Queen Mary University London)
 
-Title:&nbsp; TBA
+Title:&nbsp; Applying Exoflops to Calabi-Yau Complete Intersections in Toric Varieties
 
-Abstract:&nbsp; TBA 
+ 
+
+
+
+Abstract:&nbsp; Landau-Ginzburg (LG) models consist of the data of a quotient stack X and a regular complex-valued function W on X. Here, geometry is encapsulated in the singularity theory of W. One can find that LG models are deformations of Calabi-Yau complete intersections in some sense. Exoflops essentially create new GIT problems of partial compactifications of X, expanding the tractable birational geometries related to a given Calabi-Yau complete intersection. We will explain this technique, provide some foundational results about this and then some new applications proven recently for Calabi-Yau orbifolds. This talk contains results from a series of joint works with D. Favero (UMinn) and A. Malter (BIMSA).
 
 ---------------------------------------------------------
 <br />
