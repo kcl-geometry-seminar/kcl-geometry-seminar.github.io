@@ -82,9 +82,9 @@ Abstract:&nbsp; I will relate two notorious open questions in low-dimensional to
 
 Speaker:&nbsp; **Samuel Johnston** (Imperial College London)
 
-Title:&nbsp; TBA
+Title:&nbsp; Quantum periods, toric degenerations and intrinsic mirror symmetry
 
-Abstract:&nbsp; TBA 
+Abstract:&nbsp; One half of mirror symmetry for Fano varieties is typically stated as a relation between the symplectic geometry of a Fano variety $Y$ and the complex geometry of a Landau-Ginzburg model, realized as a pair $(X,W)$ with $X$ a quasi-projective variety and $W$ a regular function on $X$. The pair $(X,W)$ itself is expected to reflect a pair on the Fano side, namely a decomposition of $Y$ into a disjoint union of an affine log Calabi-Yau and an anticanonical divisor $D$, thought of as mirror to $W$. We will discuss recent work which shows how the intrinsic mirror construction of Gross and Siebert naturally produce potential LG models assuming milder conditions on the singularities of $D$ than typically required for the intrinsic mirror construction. In particular, we show that classical periods of this LG model recover the quantum periods of $Y$. In the setting when $Y\setminus D$ is an affine cluster variety, we will describe how these LG models naturally give rise to Laurent polynomial mirrors and encode certain toric degenerations of $Y$. As an example, we consider $Y = Gr(k,n)$, $D$ a particular choice of anticanonical divisor with affine cluster variety complement and give an explicit description of the intrinsic LG model in terms of Plücker coordinates on $Gr(n-k,n)$, recovering mirrors constructed and investigated by Marsh-Rietsch and Rietsch-Williams. 
 
 ---------------------------------------------------------
 <br />
