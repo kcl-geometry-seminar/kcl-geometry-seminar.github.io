@@ -102,11 +102,11 @@ Abstract:&nbsp; TBA
 
 11 March, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
-Speaker:&nbsp; **TBA**
+Speaker:&nbsp; **Misha Karpukhin** (UCL)
 
-Title:&nbsp; TBA
+Title:&nbsp; Eigenvalues and minimal surfaces
 
-Abstract:&nbsp; TBA 
+Abstract:&nbsp; Given a Riemannian surface, the study of sharp upper bounds for Laplacian eigenvalues under the area constraint is a classical problem of spectral geometry going back to J. Hersch, P. Li, S.-T. Yau and N. Nadirashvili. The particular interest in this problem stems from the remarkable fact that the optimal metrics for such bounds arise as metrics on minimal surfaces in spheres. In the talk I will survey recent results on the subject with an emphasis on the fruitful interaction between the geometry and spectral bounds. In particular, I will describe a surprisingly effective method of constructing new minimal surfaces based on the eigenvalue optimisation with a prescribed symmetry group. 
 
 ---------------------------------------------------------
 <br />
