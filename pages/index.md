@@ -93,9 +93,9 @@ Abstract:&nbsp; One half of mirror symmetry for Fano varieties is typically stat
 
 Speaker:&nbsp; **Ximena Fernández** (City St George’s, University of London)
 
-Title:&nbsp; TBA
+Title:&nbsp;  The Fermat principle in Riemannian geometry
 
-Abstract:&nbsp; TBA 
+Abstract:&nbsp; In many situations in physics, the path of light is determined not only by spatial geometry but also by an underlying local density (e.g., mass concentration in general relativity, refractive index in optics). Consider a scenario where a Riemannian manifold in Euclidean space is shaped by a density function, with only a finite sample of points available. How can we infer the original metric and determine the manifold's topology? This talk introduces a density-based method for estimating topological features from data in high-dimensional Euclidean spaces, assuming a manifold structure. The key to our approach lies in the Fermat distance, a sample metric that robustly infers the deformed Riemannian metric. Theoretical convergence results and implications in the homology inference of the manifold will be presented. Additionally, I will show practical applications in time series analysis with examples from real-world data. This talk is based on the article: X. Fernandez, E. Borghini, G. Mindlin, and P. Groisman. "Intrinsic Persistent Homology via Density-Based Metric Learning." Journal of Machine Learning Research 24 (2023) 1-42. 
 
 ---------------------------------------------------------
 <br />
