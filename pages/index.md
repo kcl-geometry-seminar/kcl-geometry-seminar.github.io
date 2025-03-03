@@ -89,7 +89,7 @@ Abstract:&nbsp; One half of mirror symmetry for Fano varieties is typically stat
 ---------------------------------------------------------
 <br />
 
-4 March, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
+4 March, Part I: 15:00-16:00 STRAND BLDG S4.29
 
 Speaker:&nbsp; **Ximena Fernández** (City St George’s, University of London)
 
