@@ -115,9 +115,9 @@ Abstract:&nbsp; Given a Riemannian surface, the study of sharp upper bounds for 
 
 Speaker:&nbsp; **Monika Kudlinska** (University of Cambridge)
 
-Title:&nbsp; TBA
+Title:&nbsp; Analogues of the Thurston norm in groups
 
-Abstract:&nbsp; TBA 
+Abstract:&nbsp; The Thurston norm of a 3-manifold $M$ measures the minimal topological complexity of a surface dual to a character of $M$. In this talk, we will introduce a real-valued function on the first cohomology of an arbitrary group which generalises the Thurston norm. We will propose a strategy for proving that such a function defines a seminorm using the theory of $L^2$-invariants. Finally, we will implement this strategy for some classes of right-angled Artin groups.
 
 ---------------------------------------------------------
 <br />
