@@ -122,12 +122,12 @@ Abstract:&nbsp; The Thurston norm of a 3-manifold $M$ measures the minimal topol
 ---------------------------------------------------------
 <br />
 
-25 March, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
+25 March, 15:00-16:00, STRAND BLDG S4.29
 
 Speaker:&nbsp; **Andras Juhasz** (University of Oxford)
 
-Title:&nbsp; TBA
+Title:&nbsp; Examples of topologically unknotted tori
 
-Abstract:&nbsp; TBA 
+Abstract:&nbsp; I will discuss three different constructions of smooth tori in $S^4$ whose complements have fundamental group $\mathbb{Z}$: turned 1-twist-spun tori due to Boyle, the union of a ribbon disc with a genus one Seifert surface constructed by Cochran and Davis, and certain tori with four critical points. They are all topologically unknotted, but it is not known whether they are smoothly standard, except for tori with four critical points whose middle level set is a split link. The branched double cover of $S^4$ along any of these surfaces is a potentially exotic copy of $S^2 \times S^2$, though, in the case of Boyle's example, it cannot be distinguished from the standard $S^2 \times S^2$ using Seiberg-Witten invariants. This is joint work with Mark Powell.
 
 
