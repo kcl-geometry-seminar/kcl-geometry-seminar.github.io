@@ -36,7 +36,7 @@ Abstract:&nbsp; TBA
 
 13 May, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
-Speaker:&nbsp; **TBA**
+Speaker:&nbsp; **Francesca Tripaldi** (University of Leeds)
 
 Title:&nbsp; TBA
 
@@ -73,7 +73,7 @@ Abstract:&nbsp; TBA
 
 3 June, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
-Speaker:&nbsp; **Adam Klukowski** (Oxford)
+Speaker:&nbsp; **Nattalie Tamam** (Imperial College London)
 
 Title:&nbsp; TBA
 
@@ -84,7 +84,7 @@ Abstract:&nbsp; TBA
 
 10 June, Part I: 15:00-16:00 STRAND BLDG S4.29
 
-Speaker:&nbsp; **Nattalie Tamam** (Imperial College London)
+Speaker:&nbsp; **Adam Klukowski** (University of Oxford)
 
 Title:&nbsp;  TBA
 
