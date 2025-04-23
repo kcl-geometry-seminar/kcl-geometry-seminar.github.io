@@ -71,7 +71,7 @@ Abstract:&nbsp; TBA
 ---------------------------------------------------------
 <br />
 
-3 June, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
+3 June, 15:00-16:00 STRAND BLDG S4.29
 
 Speaker:&nbsp; **Nattalie Tamam** (Imperial College London)
 
@@ -82,7 +82,7 @@ Abstract:&nbsp; TBA
 ---------------------------------------------------------
 <br />
 
-10 June, Part I: 15:00-16:00 STRAND BLDG S4.29
+10 June, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
 Speaker:&nbsp; **Adam Klukowski** (University of Oxford)
 
