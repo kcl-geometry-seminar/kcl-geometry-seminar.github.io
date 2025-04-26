@@ -14,9 +14,23 @@ The Seminar runs on *Tuesdays* at **STRAND BLDG S4.29**. This term, some talks w
 
 Speaker:&nbsp; **Alapan Mukhopadhyay** (EPFL)
 
-Title:&nbsp; TBA
+Title:&nbsp; Frobenius and Homological Algebra
 
-Abstract:&nbsp; TBA
+Abstract:&nbsp; The Frobenius endomorphism or the p-th power map is crucial in
+defining singularity classes in characteristic p > 0, especially those appearing
+in the birational classification of algebraic varieties. On the other hand, the
+obstruction to smoothness is homological, according to a celebrated theorem of
+Serre. In this talk, we will show that the Frobenius endomorphism witnesses this
+homological obstruction to smoothness. This provides an explanation for the
+effectiveness of Frobenius in detecting singularities, from a homological point of
+view. The key will be to produce (explicit) generators of the bounded derived
+category of a variety in characteristic p > 0 from perfect complexes using the
+Frobenius pushforward functor. Our results recover earlier characterizations of
+smoothness using Frobenius- such as Kunz’s theorem. Time permitting, we will
+discuss examples hinting relationship between generators of derived categories
+and the global geometry of the underlying projective variety. Part of the talk
+will report a joint work with Matthew Ballard, Patrick Lank, Srikanth Iyengar
+and Josh Pollitz.
 
 ---------------------------------------------------------
 <br />
