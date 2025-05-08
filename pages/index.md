@@ -32,17 +32,7 @@ and the global geometry of the underlying projective variety. Part of the talk
 will report a joint work with Matthew Ballard, Patrick Lank, Srikanth Iyengar
 and Josh Pollitz.
 
----------------------------------------------------------
-<br />
 
-6 May, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
-
-Speaker:&nbsp; **TBA**
-
-Title:&nbsp; TBA
-
-
-Abstract:&nbsp; TBA
 
 ---------------------------------------------------------
 <br />
@@ -52,11 +42,13 @@ Abstract:&nbsp; TBA
 
 Speaker:&nbsp; **Francesca Tripaldi** (University of Leeds)
 
-Title:&nbsp; TBA
+Title:&nbsp; Extracting subcomplexes in the subRiemannian setting
 
 
 
-Abstract:&nbsp; TBA
+
+
+Abstract:&nbsp; On subRiemannian manifolds, the de Rham complex is not the ideal candidate to use to carry out geometric analysis. However, special subcomplexes have successfully been applied in very specific settings, such as Heisenberg groups and the Cartan group. I will give an overview of different techniques used to obtain such subcomplexes, as well as point out their limitations when used on arbitrary Carnot groups, and a possible way to overcome them.
 
 ---------------------------------------------------------
 <br />
