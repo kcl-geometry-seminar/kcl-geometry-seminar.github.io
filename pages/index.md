@@ -58,10 +58,12 @@ Abstract:&nbsp; On subRiemannian manifolds, the de Rham complex is not the ideal
 
 Speaker:&nbsp; **Shengwen Wang** (Queen Mary University London)
 
-Title:&nbsp; TBA
+Title:&nbsp;   Phase transitions with Allen-Cahn mean curvature bounded in Lp.
+
+ 
 
 
-Abstract:&nbsp; TBA
+Abstract:&nbsp; We consider the varifolds associated to a phase transition problem whose first variation of Allen-Cahn energy is Lp integrable with respect to the energy measure. We can see that the Dirichlet and potential part of the energy are almost equidistributed. After passing to the phase field limit, one can obtain an integer rectifiable varifold with bounded Lp mean curvature.
 
 ---------------------------------------------------------
 <br />
