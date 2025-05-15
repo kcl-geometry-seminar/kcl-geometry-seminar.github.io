@@ -54,7 +54,7 @@ Abstract:&nbsp; On subRiemannian manifolds, the de Rham complex is not the ideal
 <br />
 
 
-20 May, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
+20 May, 15:00-16:00, STRAND BLDG S4.29
 
 Speaker:&nbsp; **Shengwen Wang** (Queen Mary University London)
 
