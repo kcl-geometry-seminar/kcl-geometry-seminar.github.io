@@ -103,7 +103,7 @@ Abstract:&nbsp; TBA
 
 17 June, Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S4.29
 
-Speaker:&nbsp; **TBA** 
+Speaker:&nbsp; **Owen Patashnick** (King's College London) 
 
 Title:&nbsp; TBA
 
