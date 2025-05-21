@@ -72,9 +72,16 @@ Abstract:&nbsp; We consider the varifolds associated to a phase transition probl
 
 Speaker:&nbsp; **Jef Laga** (University of Cambridge)
 
-Title:&nbsp; TBA 
+Title:&nbsp; Torsors and polarisations on abelian varieties
 
-Abstract:&nbsp; TBA
+
+
+
+Abstract:&nbsp;  Abelian varieties are higher-dimensional generalisations of elliptic curves and are ubiquitous in algebraic geometry and number theory. Central to their theory is the concept of a polarisation. If $A$ is an abelian variety over an algebraically closed field, then every polarisation is represented by an ample line bundle on $A$. However, such a line bundle may not exist if the field is not algebraically closed, or when it is replaced by a more general base scheme; in fact, this failure already occurs for Jacobians. 
+
+
+
+In 1999, Poonen and Stoll asked: can every polarisation be represented by a line bundle on some torsor under $A$? In this talk, I will expand on the background for this question and I will explain why the answer is often ``yes'', but not always. Along the way, we will encounter Mumford theta groups, Serre's notion of negligible group cohomology and moduli spaces of abelian varieties.
 
 ---------------------------------------------------------
 <br />
