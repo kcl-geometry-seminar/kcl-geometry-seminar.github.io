@@ -90,9 +90,9 @@ In 1999, Poonen and Stoll asked: can every polarisation be represented by a line
 
 Speaker:&nbsp; **Nattalie Tamam** (Imperial College London)
 
-Title:&nbsp; TBA
+Title:&nbsp; Weighted singular vectors for multiple weights
 
-Abstract:&nbsp; TBA
+Abstract:&nbsp; It follows from the Dirichlet theorem that every vector has `good' rational approximations. Singular vectors are the ones for which the Dirichlet theorem can be infinitely improved. An (obvious) example of singular vectors are the ones lying on rational hyperplanes. We will discuss the existence of totally irrational weighted singular vectors on manifolds, and also ones with high weighted uniform exponent. We will also mention some invariance of weighted uniform exponents in the case of manifolds. The talk is based on a joint work with Shreyasi Datta. 
 
 ---------------------------------------------------------
 <br />
