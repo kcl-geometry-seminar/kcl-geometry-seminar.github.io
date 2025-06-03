@@ -101,9 +101,9 @@ Abstract:&nbsp; It follows from the Dirichlet theorem that every vector has `goo
 
 Speaker:&nbsp; **Adam Klukowski** (University of Oxford)
 
-Title:&nbsp;  TBA
+Title:&nbsp;  Recent progress towards the Putman-Wieland conjecture
 
-Abstract:&nbsp; TBA
+Abstract:&nbsp; It is a known fact about Mapping Class Groups of surfaces that their abelianisation is (generically) finite. The Ivanov conjecture, open for more than 25 years, asks whether the same also holds for their finite-index subgroups. I will give a gentle introduction to Mapping Class Groups, and review my recent work with Vlad Marković towards this question. Some tools that we use include a reformulation due to Putman-Wieland, Magnus embedding, and spectra of Riemann surfaces.
 
 ---------------------------------------------------------
 <br />
