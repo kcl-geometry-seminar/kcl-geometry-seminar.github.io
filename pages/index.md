@@ -112,9 +112,11 @@ Abstract:&nbsp; It is a known fact about Mapping Class Groups of surfaces that t
 
 Speaker:&nbsp; **Owen Patashnick** (King's College London) 
 
-Title:&nbsp; TBA
+Title:&nbsp; On constructing motives via algebraic cycles 
 
-Abstract:&nbsp; TBA
+Abstract:&nbsp; Grothendieck was inspired to come up with the idea of a motive while trying to generalize the classical relationship between a curve and its Jacobian.  Roughly speaking, Grothendieck hoped to show that the linear data associated to a variety could be measured by an associated abelian group.  The most geometrically natural abelian structure one can associate to a variety is encapsulated in the construction of algebraic cycles, i.e. is the ring of formal sums of subvarieties, with product structure given by intersection product.  Grothendieck himself defined the abelian (sub)category of pure motives via algebraic cycles, and it is reasonable to assume that he thought a generalization to all (mixed) motives could similarly be described in terms of algebraic cycles.
+
+In this talk I will try to give a gentle introduction to a long term project to do just that; to describe the abelian category of mixed motives via algebraic cycles (in the way Grothendieck may have intended them to be understood).  In particular, after a quick overview of algebraic cycles and Grothendieck’s construction of the (subcategory) of pure motives, I will attempt to show why it is natural to look for a description of the category of mixed motives via algebraic cycles, and in particular to highlight work in progress, joint with A Logan and A Torzewski, of an explicit and computable construction of the category of mixed abelian motives for a very general abelian variety.
 
 ---------------------------------------------------------
 
