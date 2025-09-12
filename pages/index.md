@@ -7,16 +7,6 @@ The Seminar runs on *Tuesdays* at **STRAND BLDG S5.20**. This term, some talks w
 
 
 
-----------------------------------------------------------------
-<br />
-
-30 September,  Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S5.20
-
-Speaker:&nbsp; **TBD** (TBD)
-
-Title:&nbsp;TBD
-
-Abstract:&nbsp; TBD
 
 
 
@@ -108,4 +98,24 @@ Abstract:&nbsp; TBD
 
 ---------------------------------------------------------
 
+2 December,  Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S5.20
+
+Speaker:&nbsp; **TBD** (TBD)
+
+Title:&nbsp;TBD
+
+Abstract:&nbsp; TBD
+
+---------------------------------------------------------
+
+
+9 December,  Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S5.20
+
+Speaker:&nbsp; **TBD** (TBD)
+
+Title:&nbsp;TBD
+
+Abstract:&nbsp; TBD
+
+---------------------------------------------------------
 
