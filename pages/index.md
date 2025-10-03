@@ -26,7 +26,7 @@ Abstract:&nbsp; The differential geometry of spheres has long been a source of c
 
 Speaker:&nbsp; **Hannah Tillmann-Morris** (KCL)
 
-Title:&nbsp;TBD
+Title:&nbsp;Birational mirrors to pairs of Laurent polynomials
 
 Abstract:&nbsp; TBD
 
