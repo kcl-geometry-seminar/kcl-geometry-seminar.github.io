@@ -22,7 +22,7 @@ Abstract:&nbsp; The differential geometry of spheres has long been a source of c
 ---------------------------------------------------------
 <br />
 
-21 October,  Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S5.20
+21 October,  15:00-16:00, STRAND BLDG S5.20
 
 Speaker:&nbsp; **Hannah Tillmann-Morris** (KCL)
 
@@ -35,7 +35,7 @@ Abstract:&nbsp; TBD
 
 28 October,  Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S5.20
 
-Speaker:&nbsp; **TBD** (TBD)
+Speaker:&nbsp; **Sasha Veselov** (Loughborough)
 
 Title:&nbsp;TBD
 
@@ -44,9 +44,9 @@ Abstract:&nbsp; TBD
 ---------------------------------------------------------
 <br />
 
-4 November,  Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S5.20
+4 November,  15:00-16:00,  STRAND BLDG S5.20
 
-Speaker:&nbsp; **TBD** (TBD)
+Speaker:&nbsp; **Roney Santos** (Sao Paulo)
 
 Title:&nbsp;TBD
 
@@ -57,7 +57,7 @@ Abstract:&nbsp; TBD
 
 11 November,  Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S5.20
 
-Speaker:&nbsp; **TBD** (TBD)
+Speaker:&nbsp; **Cameron Gates Rudd** (Oxford)
 
 Title:&nbsp;TBD
 
@@ -67,7 +67,7 @@ Abstract:&nbsp; TBD
 
 18 November,  Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S5.20
 
-Speaker:&nbsp; **TBD** (TBD)
+Speaker:&nbsp; **Dima Panov** (KCL)
 
 Title:&nbsp;TBD
 
@@ -87,7 +87,7 @@ Abstract:&nbsp; TBD
 
 2 December,  Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S5.20
 
-Speaker:&nbsp; **TBD** (TBD)
+Speaker:&nbsp; **Dan Ciubotaru** (Oxford)
 
 Title:&nbsp;TBD
 
