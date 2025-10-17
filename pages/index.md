@@ -46,11 +46,11 @@ Abstract:&nbsp; TBD
 
 4 November,  15:00-16:00,  STRAND BLDG S5.20
 
-Speaker:&nbsp; **Roney Santos** (Sao Paulo)
+Speaker:&nbsp; **Roney Santos** (King's College London)
 
-Title:&nbsp;TBD
+Title:&nbsp; Stability of minimal submanifolds
 
-Abstract:&nbsp; TBD
+Abstract:&nbsp; We aim to introduce and discuss some concepts and results on the stability of minimal submanifolds, mainly when the ambient manifold is conformal either to a round sphere or to a convex domain of the Euclidean space. In particular, we will talk about a joint work with Alcides de Carvalho and Federico Trinca, in which we showed that a conformally Euclidean manifold with convex boundary does not admit volume-minimizing free boundary minimal submanifolds.
 
 ---------------------------------------------------------
 <br />
