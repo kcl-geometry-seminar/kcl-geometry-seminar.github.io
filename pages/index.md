@@ -28,7 +28,21 @@ Speaker:&nbsp; **Hannah Tillmann-Morris** (KCL)
 
 Title:&nbsp;Birational mirrors to pairs of Laurent polynomials
 
-Abstract:&nbsp; TBD
+Abstract:&nbsp; Under mirror symmetry, deformation classes of Fano varieties are 
+associated to mutation classes of maximally mutable Laurent polynomials 
+(MMLPs). We expect birational relationships between the general members 
+of two deformation classes to be reflected, in the pair of mirror 
+mutation classes, as combinatorial relationships between two MMLPs.
+
+I will present an alternative construction of a Fano variety that is 
+mirror to a given MMLP, which uses mirror theorems of the Gross-Siebert 
+program. The resulting Fano variety is difficult to describe explicitly. 
+However, when two given MMLPs are related by certain combinatorial 
+conditions, the construction can be extended to include the construction 
+of a birational map between the two Fano varieties produced.
+
+Applying all this to rigid MMLPs in two variables recovers all but one 
+of the blow-ups in the chain of smooth del Pezzo surfaces.
 
 ---------------------------------------------------------
 <br />
