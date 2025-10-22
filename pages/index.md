@@ -47,13 +47,13 @@ of the blow-ups in the chain of smooth del Pezzo surfaces.
 ---------------------------------------------------------
 <br />
 
-28 October,  Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S5.20
+28 October,  15:00-16:00, STRAND BLDG S5.20
 
 Speaker:&nbsp; **Sasha Veselov** (Loughborough)
 
-Title:&nbsp;TBD
+Title:&nbsp; Markov fractions and the slopes of the exceptional bundles on $\mathbb P^2$
 
-Abstract:&nbsp; TBD
+Abstract:&nbsp; We show that the Markov fractions introduced recently by Boris Springborn are precisely the slopes of the exceptional vector bundles on $\mathbb P^2$ studied in 1980s by Dr\`ezet and Le Potier and by Rudakov. In particular, we provide a simpler proof of Rudakov's result claiming that the ranks of the exceptional bundles on $\mathbb P^2$ are Markov numbers.
 
 ---------------------------------------------------------
 <br />
