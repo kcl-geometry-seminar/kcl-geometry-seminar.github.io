@@ -91,7 +91,7 @@ Abstract:&nbsp; TBD
 
 25 November,  Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S5.20
 
-Speaker:&nbsp; **TBD** (TBD)
+Speaker:&nbsp; **Abigail Ward** (Cambridge)
 
 Title:&nbsp;TBD
 
