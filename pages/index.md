@@ -73,9 +73,9 @@ Abstract:&nbsp; We aim to introduce and discuss some concepts and results on the
 
 Speaker:&nbsp; **Cameron Gates Rudd** (Oxford)
 
-Title:&nbsp;TBD
+Title:&nbsp;Almost cycles, almost boundaries, and homological complexity
 
-Abstract:&nbsp; TBD
+Abstract:&nbsp; Given a space with some kind of geometry, one can ask how the geometry of the space relates to its homology. This talk will survey some comparisons of geometric notions of complexity with homological notions of complexity. We will then focus on hyperbolic manifolds and discuss how "almost cycles" and "almost boundaries" relate to the "size" of homology.
 
 ---------------------------------------------------------
 
