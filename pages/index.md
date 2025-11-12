@@ -83,9 +83,9 @@ Abstract:&nbsp; Given a space with some kind of geometry, one can ask how the ge
 
 Speaker:&nbsp; **Dima Panov** (KCL)
 
-Title:&nbsp;TBD
+Title:&nbsp; Polyhedral Kahler metrics, hyperplane arrangements and BMY
 
-Abstract:&nbsp; TBD
+Abstract:&nbsp; Polyhedral manifolds are piecewise linear analogues of Riemannian manifolds. They are obtained by taking a collection of Euclidean simplices and identifying their hyperfaces by isometries. For example, the boundary of an n-dimensional Euclidean simplex is a polyhedral n-1-dimensional sphere. In this talk I'll speak about polyhedral Kahler manifolds, which are even dimensional polyhedral manifolds with unitary holonomy. While any Riemann surface has plenty of polyhedral Kahler metrics, the situation in complex dimension 2 and higher is very different. Such metrics seem to be very rare, and the known ones are related to the most rigid objects, such as complex reflection groups. The talk will be partially based on the recent work with Martin de Borbon,  arXiv:2106.13224, arXiv:2411.09573, arXiv:2510.17447.
 
 ---------------------------------------------------------
 
