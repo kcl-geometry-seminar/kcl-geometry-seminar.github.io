@@ -93,9 +93,10 @@ Abstract:&nbsp; Polyhedral manifolds are piecewise linear analogues of Riemannia
 
 Speaker:&nbsp; **Abigail Ward** (Cambridge)
 
-Title:&nbsp;TBD
+Title:&nbsp; A mirror symmetry correspondence in birational geometry
 
-Abstract:&nbsp; TBD
+Abstract:&nbsp;   
+I’ll discuss a construction in homological mirror symmetry and birational geometry which exhibits the group of volume-preserving birational transformations of $P^2$ in two ways: as the automorphism group of a certain infinite-type scheme, and as a group of symplectomorphisms of an infinite-type Weinstein manifold.  I’ll also give some applications of this work in understanding the symplectic mapping class group of finite-type Weinstein 4-manifolds.  This is joint work with Ailsa Keating. 
 
 ---------------------------------------------------------
 
