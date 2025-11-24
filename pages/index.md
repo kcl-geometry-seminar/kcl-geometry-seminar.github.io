@@ -89,7 +89,7 @@ Abstract:&nbsp; Polyhedral manifolds are piecewise linear analogues of Riemannia
 
 ---------------------------------------------------------
 
-25 November,  Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S5.20
+25 November,   15:00-16:00 STRAND BLDG S5.20
 
 Speaker:&nbsp; **Abigail Ward** (Cambridge)
 
