@@ -110,6 +110,16 @@ Abstract:&nbsp; The modern study of unitary representations of reductive groups 
 
 ---------------------------------------------------------
 
+4 December,  11-12, STRAND BLDG S3.32 (Note the unusual time and place!)
+
+Speaker:&nbsp; **Jarek Buczyński** (IMPAN)
+
+Title:&nbsp; TBA
+
+Abstract:&nbsp; TBA
+
+---------------------------------------------------------
+
 
 9 December,  Part I: 15:00-15:40, Part II: 15:45-16:30, STRAND BLDG S5.20
 
