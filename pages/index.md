@@ -114,9 +114,9 @@ Abstract:&nbsp; The modern study of unitary representations of reductive groups 
 
 Speaker:&nbsp; **Jarek Buczyński** (IMPAN)
 
-Title:&nbsp; TBA
+Title:&nbsp; Fujita vanishing, sufficiently ample line bundles, and cactus varieties
 
-Abstract:&nbsp; TBA
+Abstract:&nbsp; Given a projective variety $X\subset\mathbb{P}^N$ its $r$-th secant variety is the closure of the union of linear spaces spanned by $r$ distinct points of $X$. I will present an elementary method to determine if a point of the projective space is in a given secant variety or not. The method is analogous to a classical theory called apolarity lemma. It can be used to describe the b all point of a secant variety uniformly, including those very special ones that resisted a systematic approach. We also define a secant variety version of the variety of sums of powers, which roughly encode all the possible ways a point can be presented as an element of the secant variety. We analyse its usefulness to study points with large symmetries. In particular, it can be applied to provide lower bounds for the border rank of some interesting tensors, a problem relevant to complexity theory.
 
 ---------------------------------------------------------
 
@@ -125,9 +125,10 @@ Abstract:&nbsp; TBA
 
 Speaker:&nbsp; **Jason Lotay** (Oxford)
 
-Title:&nbsp;TBD
+Title:&nbsp;Einstein manifolds, G2 geometry and geometric flows
 
-Abstract:&nbsp; TBD
+
+Abstract:&nbsp; There are infinitely many positive Einstein metrics in dimension 7 and many can be encoded through G2 geometry. It is natural to ask about the stability of the associated G2 geometry with respect to natural geometric flows of G2 structures. I will report on joint works with A. Kennon and J. Stein that address this question, particularly for Einstein metrics with symmetries, demonstrating cases of both stability and instability.
 
 ---------------------------------------------------------
 
