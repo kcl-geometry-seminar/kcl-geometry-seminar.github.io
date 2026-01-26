@@ -24,7 +24,7 @@ Abstract:&nbsp; TBA
 
 10 February,  15:00-16:00, STRAND BLDG S5.20
 
-Speaker:&nbsp; **TBA** (TBA)
+Speaker:&nbsp; **Nikon Kurnosov** (LIMS)
 
 Title:&nbsp;TBA
 
