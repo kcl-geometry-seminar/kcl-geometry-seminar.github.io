@@ -15,9 +15,13 @@ The Seminar runs on *Tuesdays* at **STRAND BLDG S5.20**. This term, some talks w
 
 Speaker:&nbsp; **Jonah Duncan** (UCL)
 
-Title:&nbsp;TBA
+Title:&nbsp; Recent progress on the fully nonlinear Loewner-Nirenberg problem 
 
-Abstract:&nbsp; TBA
+
+
+Abstract:&nbsp; In 1974, Loewner and Nirenberg established that any smooth bounded Euclidean domain admits a conformally flat metric which is complete in the interior and has constant negative scalar curvature. Generalisations to compact manifolds with boundary, asymptotic expansions of solutions and other related problems have since received significant attention from many authors (Aviles, McOwen, Mazzeo etc.) 
+
+In this talk I will discuss recent work with Luc Nguyen on generalisations of the Loewner-Nirenberg problem, in which one replaces the scalar curvature with other curvature quantities involving the Schouten tensor. These problems involve solving fully nonlinear, non-uniformly elliptic PDEs with infinite boundary data. In particular, I will discuss our recent existence results which yield solutions on arbitrary compact manifolds with boundary, and I will also discuss some surprising non-uniqueness phenomena in the upper half space, demonstrating that the 'expected' Liouville theorems do not always hold.
 
 ---------------------------------------------------------
 <br />
