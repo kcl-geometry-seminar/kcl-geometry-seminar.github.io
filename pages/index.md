@@ -30,9 +30,10 @@ In this talk I will discuss recent work with Luc Nguyen on generalisations of th
 
 Speaker:&nbsp; **Nikon Kurnosov** (LIMS)
 
-Title:&nbsp;TBA
+Title:&nbsp; Deformations of holomorphic Lagrangian subvarieties
 
-Abstract:&nbsp; TBA
+Abstract:&nbsp;
+Let  (M,I,Ω) be a compact holomorphically symplectic manifold and X its holomorphic Lagrangian submanifold, consider (M,I_t,Ω_t) its holomorphically symplectic deformation such that Ω_t is exact on X. Voisin has shown for projective M that X can be deformed to a holomorphic Lagrangian submanifold in (M,I_t). Using a new holomorphically symplectic version of local Torelli theorem, I will give ideas of a proof of Voisin's theorem which is valid for non-projective and even for some non-Kahler holomorphically symplectic manifolds. This is a joint work with Misha Verbitsky.
 
 
 ---------------------------------------------------------
