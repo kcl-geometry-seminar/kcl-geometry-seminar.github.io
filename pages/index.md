@@ -37,18 +37,6 @@ Let  (M,I,Ω) be a compact holomorphically symplectic manifold and X its holomor
 
 
 ---------------------------------------------------------
-<br />
-
-17 February,  15:00-16:00, STRAND BLDG S5.20
-
-Speaker:&nbsp; **TBA** (TBA)
-
-Title:&nbsp;TBA
-
-Abstract:&nbsp; TBA
-
----------------------------------------------------------
-<br />
 
 
 24 February,  15:00-16:00, STRAND BLDG S5.20
