@@ -43,9 +43,10 @@ Let  (M,I,Ω) be a compact holomorphically symplectic manifold and X its holomor
 
 Speaker:&nbsp; **Giulia Gugiatti** (Edinburgh)
 
-Title:&nbsp;TBA
+Title:&nbsp;Kuznetsov components in mirror symmetry.
 
-Abstract:&nbsp; TBA
+Abstract:&nbsp; 
+In this talk I will explore how the structural features of Kuznetsov components of Fano varieties are reflected in the geometry of their mirror Landau-Ginzburg models. I will focus on Fano varieties arising as branched covers along Calabi-Yau hypersurfaces and propose a mirror description of their Kuznetsov component. I will discuss the case of the quartic double solid in detail. The talk is based on work in progress with Ilaria Di Dedda, Danil Kozevnikov, and Nick Sheridan.
 
 ---------------------------------------------------------
 <br />
