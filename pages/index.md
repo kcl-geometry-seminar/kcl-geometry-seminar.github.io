@@ -103,7 +103,7 @@ Abstract:&nbsp; TBA
 
 31 March,  15:00-16:00, STRAND BLDG S5.20
 
-Speaker:&nbsp; **TBA** (TBA)
+Speaker:&nbsp; **Ruadhai Dervan** (Warwick)
 
 Title:&nbsp;TBA
 
