@@ -78,7 +78,7 @@ Abstract:&nbsp; TBA
 
 17 March,  15:00-16:00, STRAND BLDG S5.20
 
-Speaker:&nbsp; **TBA** (TBA)
+Speaker:&nbsp; **Federico Avila** (QMUL)
 
 Title:&nbsp;TBA
 
