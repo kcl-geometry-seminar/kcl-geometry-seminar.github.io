@@ -90,7 +90,7 @@ Abstract:&nbsp; TBA
 
 24 March,  15:00-16:00, STRAND BLDG S5.20
 
-Speaker:&nbsp; **TBA** (TBA)
+Speaker:&nbsp; **Konni Rietsch** (KCL)
 
 Title:&nbsp;TBA
 
