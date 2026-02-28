@@ -52,17 +52,6 @@ In this talk I will explore how the structural features of Kuznetsov components 
 <br />
 
 
-3 March,  15:00-16:00, STRAND BLDG S5.20
-
-Speaker:&nbsp; **TBA** (TBA)
-
-Title:&nbsp;TBA
-
-Abstract:&nbsp; TBA
-
----------------------------------------------------------
-<br />
-
 
 10 March,  15:00-16:00, STRAND BLDG S5.20
 
