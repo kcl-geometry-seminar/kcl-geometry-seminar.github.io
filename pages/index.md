@@ -69,9 +69,11 @@ Abstract:&nbsp; TBA
 
 Speaker:&nbsp; **Federico Avila** (QMUL)
 
-Title:&nbsp;TBA
+Title:&nbsp;The Geometry of Matroids
 
-Abstract:&nbsp; TBA
+Abstract:&nbsp;  
+The theory of matroids originated in linear algebra and graph theory, and has deep connections with many other areas, including field theory, matching theory, submodular optimization, Lie combinatorics, and total positivity. Matroids capture the combinatorial essence that these different settings share. In recent years, the (classical, polyhedral, algebraic, and tropical) geometric roots of the field have grown much deeper, bearing new fruits. My talk will survey some recent successes. 
+The presentation will assume no previous knowledge of matroids. I will discuss joint work with many people, including Graham Denham, June Huh, and Carly Klivans.
 
 ---------------------------------------------------------
 <br />
