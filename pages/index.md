@@ -55,11 +55,22 @@ In this talk I will explore how the structural features of Kuznetsov components 
 
 10 March,  15:00-16:00, STRAND BLDG S5.20
 
-Speaker:&nbsp; **TBA** (TBA)
+Speaker:&nbsp; **Michael McQuillan** (Rome Tor Vergata)
 
-Title:&nbsp;TBA
+Title:&nbsp; Extension and non-extension of 2-sheaves
 
-Abstract:&nbsp; TBA
+Abstract:&nbsp; 
+
+One expects, for more or less trivial reasons, that
+anything algebraic will just extend across a sub-variety,
+and this is certainly true of quasi-coherent
+sheaves. This fails however for 2-sheaves from algebraic
+dimension 3 on, while In algebraic dimension 2, it can
+be reduced to known theorems in the topology of 3-manifolds.
+This phenomen results from the curious fact that although
+etale and classical cohomology with values in a finite
+abelian group are the same, etale homotopy is very different
+from classical homotopy.
 
 ---------------------------------------------------------
 <br />
