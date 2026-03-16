@@ -94,9 +94,11 @@ The presentation will assume no previous knowledge of matroids. I will discuss j
 
 Speaker:&nbsp; **Konni Rietsch** (KCL)
 
-Title:&nbsp;TBA
+Title:&nbsp;On mirror symmetry for Schubert varieties
 
-Abstract:&nbsp; TBA
+
+
+Abstract:&nbsp; I will report on two recent works about the construction of mirror superpotentials for Schubert varieties: one with L. Williams and one with C. Li and M. Yang. The first work concerns Grassmannian Schubert varieties X, where (with L. Williams) we construct a superpotential that is given in terms of Pluecker coordinates and Young diagram combinatorics and that encodes Newton-Okounkov bodies and toric degenerations of X. Our superpotential formula generalises a formula for the full Grassmannian superpotential from earlier work with B. Marsh. In the second work, with Changzheng Li and Mingzhi Yang, these Grassmannian Schubert superpotentials are then given a Lie-theoretic reinterpretation, and we obtain a conjectural superpotential for a general G/P-Schubert variety. This work also provides a generalisation of the (Dale) Peterson variety that governs the quantum cohomology rings of the homogeneous spaces G/P, and we state a conjecture about the quantum cohomology rings of smooth Fano Schubert varieties.
 
 ---------------------------------------------------------
 <br />
@@ -113,3 +115,18 @@ Abstract:&nbsp; TBA
 
 ---------------------------------------------------------
 <br />
+
+
+
+9 April,  15:00-16:00, STRAND BLDG S5.20 (Note that this seminar takes place on a Thursday)
+
+Speaker:&nbsp; **Antoine De Saint-Germain** (University of Hong Kong )
+
+Title:&nbsp;TBA
+
+Abstract:&nbsp; TBA
+
+---------------------------------------------------------
+<br />
+
+
