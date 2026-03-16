@@ -78,7 +78,7 @@ from classical homotopy.
 
 17 March,  15:00-16:00, STRAND BLDG S5.20
 
-Speaker:&nbsp; **Federico Avila** (QMUL)
+Speaker:&nbsp; **Federico Ardila** (QMUL)
 
 Title:&nbsp;The Geometry of Matroids
 
