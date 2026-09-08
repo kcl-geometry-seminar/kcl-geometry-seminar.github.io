@@ -80,7 +80,7 @@ Abstract:&nbsp; TBD
 
 10 November,  15:00-16:00, STRAND BLDG S5.20
 
-Speaker:&nbsp; **TBD** (TBD)
+Speaker:&nbsp; **Jonny Evans** (Lancaster)
 
 Title:&nbsp; TBD
 
