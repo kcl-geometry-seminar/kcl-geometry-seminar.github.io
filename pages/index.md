@@ -52,7 +52,7 @@ Abstract:&nbsp; TBD
 
 27 October,  15:00-16:00, STRAND BLDG S5.20
 
-Speaker:&nbsp; **TBD** (TBD)
+Speaker:&nbsp; **Simon Salamon** (KCL)
 
 Title:&nbsp; TBD
 
