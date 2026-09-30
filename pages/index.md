@@ -93,7 +93,7 @@ Abstract:&nbsp; TBD
 
 17 November,  15:00-16:00, STRAND BLDG S5.20
 
-Speaker:&nbsp; **TBD** (TBD)
+Speaker:&nbsp; **Anne-Sophie Kaloghiros** (Brunel)
 
 Title:&nbsp; TBD
 
