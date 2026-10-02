@@ -122,7 +122,7 @@ Abstract:&nbsp; TBD
 
 1 December,  15:00-16:00, STRAND BLDG S5.20
 
-Speaker:&nbsp; **TBD** (TBD)
+Speaker:&nbsp; **Peter Jossen** (KCL)
 
 Title:&nbsp; TBD
 
