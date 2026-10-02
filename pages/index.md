@@ -108,7 +108,7 @@ Abstract:&nbsp; TBD
 
 24 November,  15:00-16:00, STRAND BLDG S5.20
 
-Speaker:&nbsp; **TBD** (TBD)
+Speaker:&nbsp; **Cheuk Yu Mak** (Sheffield)
 
 Title:&nbsp; TBD
 
