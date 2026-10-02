@@ -15,11 +15,11 @@ The Seminar runs on *Tuesdays* at **STRAND BLDG S5.20**. This term, talks will r
 
 Speaker:&nbsp; **Claudia Pontuale** (Università degli Studi dell'Aquila)
 
-Title:&nbsp; TBD
+**Title**:&nbsp; *Stability and Do Carmo's problem: from isotropic to anisotropic.*
 
 
 
-Abstract:&nbsp; TBD
+**Abstract**:&nbsp; Do Carmo's problem asks whether every complete, noncompact, stable constant mean curvature (CMC) hypersurface in Euclidean space must be minimal. I will first review some classical and recent progress on this question, with particular emphasis on dimension-free rigidity phenomena and on their connection with the stable Bernstein problem. I will then turn to the anisotropic counterpart of Do Carmo's question, where stability can still impose strong restrictions on the geometry at infinity. In particular, I will present a one-endedness theorem for stable constant anisotropic mean curvature hypersurfaces under a natural ellipticity condition and discuss the main ideas behind its proof.
 
 ---------------------------------------------------------
 <br />
