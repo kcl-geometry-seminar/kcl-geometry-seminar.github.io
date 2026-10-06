@@ -3,7 +3,7 @@ title: Autumn 2026
 ---
 
 
-The Seminar runs on *Tuesdays* at **STRAND BLDG S5.20**. This term, talks will run from *15:00 to 16:00*.
+The Seminar runs on *Tuesdays* at **STRAND BLDG S526**. This term, talks will run from *15:00 to 16:00*.
 
 
 
