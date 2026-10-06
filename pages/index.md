@@ -11,7 +11,7 @@ The Seminar runs on *Tuesdays* at **STRAND BLDG S526**. This term, talks will ru
 
 <br />
 
-6 October,  15:00-16:00, STRAND BLDG S5.20
+6 October,  15:00-16:00, STRAND BLDG S526
 
 Speaker:&nbsp; **Claudia Pontuale** (Università degli Studi dell'Aquila)
 
@@ -23,20 +23,16 @@ Speaker:&nbsp; **Claudia Pontuale** (Università degli Studi dell'Aquila)
 
 ---------------------------------------------------------
 <br />
-13 October,  15:00-16:00, STRAND BLDG S5.20
+13 October,  15:00-16:00, STRAND BLDG S526
 
-Speaker:&nbsp; **TBD** (TBD)
-
-Title:&nbsp; TBD
+Speaker:&nbsp; **No seminar this week**
 
 
-
-Abstract:&nbsp; TBD
 
 ---------------------------------------------------------
 <br />
 
-20 October,  15:00-16:00, STRAND BLDG S5.20
+20 October,  15:00-16:00, STRAND BLDG S526
 
 Speaker:&nbsp; **Ivan Smith** (Cambridge)
 
@@ -50,7 +46,7 @@ Abstract:&nbsp; TBD
 <br />
 
 
-27 October,  15:00-16:00, STRAND BLDG S5.20
+27 October,  15:00-16:00, STRAND BLDG S526
 
 Speaker:&nbsp; **Simon Salamon** (KCL)
 
@@ -63,7 +59,7 @@ Abstract:&nbsp; TBD
 ---------------------------------------------------------
 <br />
 
-3 November,  15:00-16:00, STRAND BLDG S5.20
+3 November,  15:00-16:00, STRAND BLDG S526
 
 Speaker:&nbsp; **TBD** (TBD)
 
@@ -78,7 +74,7 @@ Abstract:&nbsp; TBD
 
 
 
-10 November,  15:00-16:00, STRAND BLDG S5.20
+10 November,  15:00-16:00, STRAND BLDG S526
 
 Speaker:&nbsp; **Jonny Evans** (Lancaster)
 
@@ -91,7 +87,7 @@ Abstract:&nbsp; TBD
 ---------------------------------------------------------
 <br />
 
-17 November,  15:00-16:00, STRAND BLDG S5.20
+17 November,  15:00-16:00, STRAND BLDG S526
 
 Speaker:&nbsp; **Anne-Sophie Kaloghiros** (Brunel)
 
@@ -106,7 +102,7 @@ Abstract:&nbsp; TBD
 
 
 
-24 November,  15:00-16:00, STRAND BLDG S5.20
+24 November,  15:00-16:00, STRAND BLDG S526
 
 Speaker:&nbsp; **Cheuk Yu Mak** (Sheffield)
 
@@ -120,7 +116,7 @@ Abstract:&nbsp; TBD
 <br />
 
 
-1 December,  15:00-16:00, STRAND BLDG S5.20
+1 December,  15:00-16:00, STRAND BLDG S526
 
 Speaker:&nbsp; **Peter Jossen** (KCL)
 
@@ -133,7 +129,7 @@ Abstract:&nbsp; TBD
 ---------------------------------------------------------
 <br />
 
-8 December,  15:00-16:00, STRAND BLDG S5.20
+8 December,  15:00-16:00, STRAND BLDG S526
 
 Speaker:&nbsp; **Kaito Xie** (HKU)
 
