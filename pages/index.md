@@ -25,8 +25,11 @@ Speaker:&nbsp; **Claudia Pontuale** (Università degli Studi dell'Aquila)
 <br />
 13 October,  15:00-16:00, STRAND BLDG S526
 
-Speaker:&nbsp; **No seminar this week**
+Speaker:&nbsp; **Stephen Lynch**  (KCL)
 
+**Title**:&nbsp; Surgery for the mean curvature flow in higher codimension
+
+**Abstract**:&nbsp;  The mean curvature flow offers a powerful mechanism for evolving extrinsic geometries into canonical forms. However solutions are subject to finite-time singularity formation. A profound problem, with many potential applications, is to reveal the geometric information encoded in these singularities. I will discuss work with Huy Nguyen in which we construct a flow with surgery for submanifolds of higher codimension under a natural curvature pinching condition. The key new contribution is fine control on singularities, allowing for them to be removed, after which the flow can continue smoothly. The construction has topological consequences. 
 
 
 ---------------------------------------------------------
