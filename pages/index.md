@@ -64,7 +64,7 @@ Abstract:&nbsp; TBD
 
 3 November,  15:00-16:00, STRAND BLDG S526
 
-Speaker:&nbsp; **TBD** (TBD)
+Speaker:&nbsp; **Albert Wood** (KCL)
 
 Title:&nbsp; TBD
 
