@@ -39,11 +39,11 @@ Speaker:&nbsp; **Stephen Lynch**  (KCL)
 
 Speaker:&nbsp; **Ivan Smith** (Cambridge)
 
-Title:&nbsp; TBD
+**Title**:&nbsp; Floer homotopy and bordism
 
 
 
-Abstract:&nbsp; TBD
+**Abstract**:&nbsp; Floer homotopy theory aims to extract information from moduli spaces of holomorphic polygons with boundaries on Lagrangian submanifolds, whereas classical Floer homology largely focusses attention on counting zero-dimensional spaces of such polygons. We discuss constraints on the bordism classes of Lagrangians that arise from this theory, focussing attention on the case of exact symplectic manifolds (e.g. smooth complex affine varieties). This talk reports on joint work with Noah Porcelli.
 
 ---------------------------------------------------------
 <br />
