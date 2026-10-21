@@ -53,11 +53,11 @@ Speaker:&nbsp; **Ivan Smith** (Cambridge)
 
 Speaker:&nbsp; **Simon Salamon** (KCL)
 
-Title:&nbsp; TBD
+**Title**:&nbsp; Counting invariant spinors on unitary flag manifolds
 
 
 
-Abstract:&nbsp; TBD
+**Abstract**:&nbsp; Using the concept of balanced subgraph, we show that the dimension of the space of invariant spinors on U(n)/T^n (with n necessarily odd) is equal to the number of regular tournaments with n nodes (for example, 2640 for n=7). The associated representation theory leads to an analysis of the Dirac operator. This is joint work with Diego Conti, and the problem arose from work of Diego Artacho, Marie-Amelie Lawn, and Uwe Semmelmann.
 
 ---------------------------------------------------------
 <br />
