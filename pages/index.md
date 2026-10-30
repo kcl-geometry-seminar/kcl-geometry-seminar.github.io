@@ -81,11 +81,11 @@ Abstract:&nbsp; TBD
 
 Speaker:&nbsp; **Jonny Evans** (Lancaster)
 
-Title:&nbsp; TBD
+**Title**:&nbsp; Weighted Seshadri constants and ellipsoid embeddings
 
 
 
-Abstract:&nbsp; TBD
+**Abstract**:&nbsp; Quantitative symplectic geometry studies questions like "How big a ball can one embed symplectically into a given symplectic manifold?" If one deforms the ball into an ellipsoid then the answer to the corresponding ellipsoid embedding problem is very sensitive to the precise shape of the ellipsoid. In 2009, McDuff and Schlenk discovered an intricate infinite staircase pattern which encoded the answer to this question for embedding ellipsoids into the complex projective plane: there were infinitely many steps whose combinatorics was encoded by Fibonacci numbers, which we now understand quite well, and then nine exceptional "post-Fibonacci" steps, which are more mysterious. Exactly the same staircase appeared five years later in a paper of Dumnicki, Harbourne, Kuronya, Roe and Szemberg on the Nagata conjecture for plane curves with prescribed valuative behaviour near a point. I will explain how the algebro-geometric perspective helps us to understand the post-Fibonacci steps.
 
 ---------------------------------------------------------
 <br />
