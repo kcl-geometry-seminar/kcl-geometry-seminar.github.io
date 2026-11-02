@@ -66,11 +66,14 @@ Speaker:&nbsp; **Simon Salamon** (KCL)
 
 Speaker:&nbsp; **Albert Wood** (KCL)
 
-Title:&nbsp; TBD
+**Title**:&nbsp; Lagrangian Mean Curvature Flow with Symmetries in Calabi-Yau Manifolds
 
 
 
-Abstract:&nbsp; TBD
+
+**Abstract**:&nbsp; Lagrangian mean curvature flow (LMCF) is the name given to the fact that the mean curvature flow of submanifolds preserves the class of Lagrangian submanifolds in a Calabi-Yau manifold. Since special Lagrangian submanifolds are volume-minimising in their homology class, LMCF has been proposed as a technique to prove existence of special Lagrangian submanifolds in suitable classes of Lagrangians. However, finite-time singularities occur in general along the flow, and understanding these singularities is therefore of great importance.
+
+In this talk I will discuss upcoming joint work with Dr. Ben Lambert, in which we completely classify singularities of LMCF in very general cohomogeneity-one symmetric settings. I will cover the basics of the subject as well as concrete examples of LMCFs in symmetric Calabi-Yau manifolds to which our theory may be applied, before giving an overview of the key steps of our proof and a statement of the general result.
 
 ---------------------------------------------------------
 <br />
