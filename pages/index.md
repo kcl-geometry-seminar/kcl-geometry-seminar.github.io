@@ -97,11 +97,13 @@ Speaker:&nbsp; **Jonny Evans** (Lancaster)
 
 Speaker:&nbsp; **Anne-Sophie Kaloghiros** (Brunel)
 
-Title:&nbsp; TBD
+Title:&nbsp; On K-moduli of prime Fano threefolds of genus 12. 
 
 
 
-Abstract:&nbsp; TBD
+Abstract:&nbsp; 
+Over the past decade, much progress has been made in understanding explicit K-stability of smooth Fano threefolds. We now know which of the 105 deformation families of smooth Fano 
+3-folds correspond to a non-empty K-moduli space and have a complete description of these K-moduli spaces in many cases. Current techniques however do not tell us much about K-moduli spaces of prime Fano threefolds. An especially interesting case is that of prime Fano threefolds of genus 12 (V22). While the general Fano of type V22 is K-stable, some strictly K-semistable examples are known. In this talk, I will describe the boundary of the K-moduli stack of Fano threefolds of type V22. This is based on joint work with Liu, Petracci and Zhao.
 
 ---------------------------------------------------------
 <br />
