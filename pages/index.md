@@ -114,11 +114,11 @@ Over the past decade, much progress has been made in understanding explicit K-st
 
 Speaker:&nbsp; **Cheuk Yu Mak** (Sheffield)
 
-Title:&nbsp; TBD
+Title:&nbsp; Lagrangian torus fibration on Calabi-Yau hypersurfaces
 
 
 
-Abstract:&nbsp; TBD
+Abstract:&nbsp; In joint work with Matessi-Ruddat-Zharkov, we prove the existence of Lagrangian torus fibrations on Calabi-Yau hypersurfaces in toric Fano manifolds given by a reflexive polytope. The result is motivated by the Strominger-Yau-Zaslow conjecture, which predicts the existence of these fibrations on Calabi-Yau manifolds near large complex structure limits. In this talk, I will outline the main setup of the construction. The idea is to replace the ordinary algebraic equation with a new one involving "ironing coefficients" and a convex (but not strictly convex!) potential which has the effect of breaking the manifold into local models. Over these models, we apply the Liouville flow technique in the style of Evans-Mauri.
 
 ---------------------------------------------------------
 <br />
