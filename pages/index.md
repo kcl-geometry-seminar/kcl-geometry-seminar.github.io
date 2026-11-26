@@ -128,11 +128,13 @@ Abstract:&nbsp; In joint work with Matessi-Ruddat-Zharkov, we prove the existenc
 
 Speaker:&nbsp; **Peter Jossen** (KCL)
 
-Title:&nbsp; TBD
+Title:&nbsp; On geometric local systems
 
 
 
-Abstract:&nbsp; TBD
+Abstract:&nbsp; Let X be a smooth, connected complex algebraic curve. The cohomology of any smooth, projective family of algebraic varieties over X gives rise to a local system on X, or equivalently, to a linear representation of the fundamental group of X. Local systems that arise this way are said to be geometric. There are not too many of them: Deligne showed (1984) that up to isomorphism there exist only finitely many irreducible geometric local systems of a given rank on X. Annoyingly, we are unable to classify or enumerate them in any way. The problem is that, once a local system passes a number of necessary qualifications, it is a difficult to decide whether it is indeed geometric.
+
+I will talk about Deligne's finiteness theorem, and about a conjecture of Simpson (1992) which proposes a sufficient condition for an irreducible local system to be geometric.
 
 ---------------------------------------------------------
 <br />
